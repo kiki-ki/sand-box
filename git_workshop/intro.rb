@@ -9,20 +9,20 @@ end
 path = ARGV[0]
 kind = ARGV[1]
 
-intros = "Hello, I'm Taro.\n"
+intros = "Hello, I'm Ziro.\n"
 
 case kind
 when "account"
-  FILE.open(path) do |f|
+  File.open(path) do |f|
     account_num = f.read
     intros += "my account num is #{account_num}"
   end
   puts intros
 when "friends"
   intros += "my friends are\n"
-  FILE.open(path) do |f|
+  File.open(path) do |f|
     friends = f.read
-    intros += frends
+    intros += friends
   end
   puts intros
 else
