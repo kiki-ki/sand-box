@@ -13,12 +13,24 @@
     }
     function array_display(array){
       for(i in array){
-        display(array[e]);
+        display(array[i]);
+      }
+    }
+    function hash_display(hash){
+      for(key in hash){
+        document.write(key + ": " + hash[key] + "<br>");
       }
     }
 
     let array = ["a","b","c"];
     array_display(array);
+
+    let hash = {
+        name: "寝太郎",
+        address: "on the bed",
+        tel: "000-0000-0000",
+    }
+    hash_display(hash);
 
   </script>
 </body>
