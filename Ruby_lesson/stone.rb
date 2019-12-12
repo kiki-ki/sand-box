@@ -1,16 +1,19 @@
 class StoneGame
+  attr_reader :stone, :max
   @is_me = false
-  def initialize(stone, max)
+  def initialize(stone:, max:)
     @stone = stone
     @max = max
+    @count = 0
   end
 
   def your_turn
     @is_me = false
-    p "your turn, how many stones do you want?"
+    display_turn
+    puts "your turn, how many stones do you get?"
     num = gets.to_i
-    while @max <= num || num < 0
-      p "please input one more"
+    while @max < num || num <= 0
+      puts "please input one more"
       num = gets.to_i
     end
     @stone -= num
@@ -20,40 +23,51 @@ class StoneGame
 
   def my_turn
     @is_me = true
-    num = rand(1..max)
-    p "I want #{num} stones"
+    display_turn
+    num = rand(1..@max)
+    puts "Computer gets #{num} stones"
     @stone -= num
     check
     remaining_stone
   end
 
   private
+    def display_turn
+      @count += 1
+      puts "---turn#{@count}---"
+    end
+
     def remaining_stone
-      p "残り#{@stone}個"
+      if @stone == 1
+        puts "remaining stones is #{@stone}\n"
+      else
+        puts "remaining stones are #{@stone}\n"
+      end
+
     end
 
     def check
       if @stone <= 0
-        p @is_me ? "I am Loser" : "You are Loser"
+        puts @is_me ? "I am Loser" : "You are Loser"
       else
         return
       end
     end
 end
 
-p "Decide on the number of stones and the maximum number you can get at one time"
-p "ex) 30 5"
+puts "Decide on the number of stones and the maximum number you can get at one time"
+print "ex) 30 5: "
 stone,max = gets.chomp.split.map(&:to_i)
-game = StoneGame.new(stone, max)
-p "if you wanna play first input 0 otherwise input 1"
-p "0 or 1"
+game = StoneGame.new(stone: stone, max: max)
+puts "if you wanna play first input 0 otherwise input 1"
+print "0 or 1: "
 is_first = gets.to_i
 while (!(is_first == 0 || is_first == 1))
-  p "0 or 1"
+  print "0 or 1: "
   is_first = gets.to_i
 end
 
-while (i == 0)
+while (game.stone > 0)
   if is_first == 0
     game.your_turn
     game.my_turn
