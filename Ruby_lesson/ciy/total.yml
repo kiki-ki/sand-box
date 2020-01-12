@@ -1,0 +1,360 @@
+id: 1  name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 自分の好きにやらせてくれる環境
+- スピード感があり、常に好奇心を刺激される環境
+- ファミリー的な温かさがある環境
+- 失敗しても怒られない環境
+id: 2  name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- ポジションや役割が明確な環境
+- 実績や経験が評価される環境
+- 他人ではなく自分しかできないなど、存在意義が感じられる環境
+- 一流の物や人に触れる機会が多い環境
+id: 3  name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 瞬間的な判断力やかけひき強さが活かせる環境
+- 堅苦しくない雰囲気
+- 小さな結果でもすぐに実感できる環境
+- 自分の頑張りが、合理的に評価される環境
+id: 4  name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- ゆっくり時間をかけて結果を出すことが求められる環境
+- 勝ち目のある勝負に挑める環境
+- リスクが高い環境ではなく、堅実な環境
+- ストレスがたまり続けない環境
+id: 5  name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 常に新鮮さがあり、カッコいいと感じられる環
+- オープンで隠し事のない環境
+- 自分も含めてみんなで一緒に向上できる環境
+- 新しい人やモノに頻繁に出会える環境
+id: 6  name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- マイペースで取り組むことが許される環境
+- 信頼関係がある、平和な環境
+- 肩書きや立場で態度をコロコロ変えなくても良い環境
+- 研究や学術など、じっくり納得して没頭できる環境
+id: 7  name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 自分の好きにやらせてくれる環境
+- スピード感があり、常に好奇心を刺激される環境
+- ファミリー的な温かさがある環境
+- 失敗しても怒られない環境
+id: 8  name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- ポジションや役割が明確な環境
+- 実績や経験が評価される環境
+- 他人ではなく自分しかできないなど、存在意義が感じられる環境
+- 一流の物や人に触れる機会が多い環境
+id: 9  name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 瞬間的な判断力やかけひき強さが活かせる環境
+- 堅苦しくない雰囲気
+- 小さな結果でもすぐに実感できる環境
+- 自分の頑張りが、合理的に評価される環境
+id: 10 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- ゆっくり時間をかけて結果を出すことが求められる環境
+- 勝ち目のある勝負に挑める環境
+- リスクが高い環境ではなく、堅実な環境
+- ストレスがたまり続けない環境
+id: 11 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 自然体で、安心できる環境
+- 無機質、人工的ではなく、自然を感じられる環境
+- 心を許せる仲間と力を合わせられる環境
+- 焦らせたり、急かされたりしない環境
+id: 12 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 他人からの指図が少ない環境
+- アクシデントやトラブルをサポートしてもらえる環境
+- スピーディーな環境
+- プロ意識の高い集団
+id: 13 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 自分のやり方を認めてもらえる環境
+- 人の役に立っていることが実感できる環境
+- 人まねではなく、自分の創意工夫が発揮できる環境
+- 行動を焦らされない環境
+id: 14 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 目立たないが、場やチームの中心にいられる環境
+- 上下関係が明確な環境
+- 相談し合えて、仲間意識の強い環境
+- ズルい人や感情的にブレやすい人が少ない環境
+id: 15 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 瞬間的な判断力やかけひき強さが活かせる環境
+- 堅苦しくない雰囲気
+- 小さな結果でもすぐに実感できる環境
+- 自分の頑張りが、合理的に評価される環境
+id: 16 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- ゆっくり時間をかけて結果を出すことが求められる環境
+- 勝ち目のある勝負に挑める環境
+- リスクが高い環境ではなく、堅実な環境
+- ストレスがたまり続けない環境
+id: 17 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 自然体で、安心できる環境
+- 無機質、人工的ではなく、自然を感じられる環境
+- 心を許せる仲間と力を合わせられる環境
+- 焦らせたり、急かされたりしない環境
+id: 18 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 他人からの指図が少ない環境
+- アクシデントやトラブルをサポートしてもらえる環境
+- スピーディーな環境
+- プロ意識の高い集団
+id: 19 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 自分のやり方を認めてもらえる環境
+- 人の役に立っていることが実感できる環境
+- 人まねではなく、自分の創意工夫が発揮できる環境
+- 行動を焦らされない環境
+id: 20 name: image_names: color: job: element: catch_copy: comments: - - feature: keyworss: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 目立たないが、場やチームの中心にいられる環境
+- 上下関係が明確な環境
+- 相談し合えて、仲間意識の強い環境
+- ズルい人や感情的にブレやすい人が少ない環境
+id: 21 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 束縛されない環境
+- 未来に希望が持てる環境
+- 自分のやりたいことや得意なことに没頭できる環境
+- 変化があり柔軟に活動できる環境
+id: 22 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 束縛されない環境
+- 未来に希望が持てる環境
+- 自分のやりたいことや得意なことに没頭できる環境
+- 変化があり柔軟に活動できる環境
+id: 23 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 目立たないが、場やチームの中心にいられる環境
+- 上下関係が明確な環境
+- 相談し合えて、仲間意識の強い環境
+- ズルい人や感情的にブレやすい人が少ない環境
+id: 24 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 自分のやり方を認めてもらえる環境
+- 人の役に立っていることが実感できる環境
+- 人まねではなく、自分の創意工夫が発揮できる環境
+- 行動を焦らされない環境
+id: 25 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 自分のやり方を認めてもらえる環境
+- 人の役に立っていることが実感できる環境
+- 人まねではなく、自分の創意工夫が発揮できる環境
+- 行動を焦らされない環境
+id: 26 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 目立たないが、場やチームの中心にいられる環境
+- 上下関係が明確な環境
+- 相談し合えて、仲間意識の強い環境
+- ズルい人や感情的にブレやすい人が少ない環境
+id: 27 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 束縛されない環境
+- 未来に希望が持てる環境
+- 自分のやりたいことや得意なことに没頭できる環境
+- 変化があり柔軟に活動できる環境
+id: 28 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 束縛されない環境
+- 未来に希望が持てる環境
+- 自分のやりたいことや得意なことに没頭できる環境
+- 変化があり柔軟に活動できる環境
+id: 29 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 目立たないが、場やチームの中心にいられる環境
+- 上下関係が明確な環境
+- 相談し合えて、仲間意識の強い環境
+- ズルい人や感情的にブレやすい人が少ない環境
+id: 30 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 自分のやり方を認めてもらえる環境
+- 人の役に立っていることが実感できる環境
+- 人まねではなく、自分の創意工夫が発揮できる環境
+- 行動を焦らされない環境
+id: 31 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 他人からの指図が少ない環境
+- アクシデントやトラブルをサポートしてもらえる環境
+- スピーディーな環境
+- プロ意識の高い集団
+id: 32 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 自然体で、安心できる環境
+- 無機質、人工的ではなく、自然を感じられる環境
+- 心を許せる仲間と力を合わせられる環境
+- 焦らせたり、急かされたりしない環境
+id: 33 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- ゆっくり時間をかけて結果を出すことが求められる環境
+- 勝ち目のある勝負に挑める環境
+- リスクが高い環境ではなく、堅実な環境
+- ストレスがたまり続けない環境
+id: 34 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 瞬間的な判断力やかけひき強さが活かせる環境
+- 堅苦しくない雰囲気
+- 小さな結果でもすぐに実感できる環境
+- 自分の頑張りが、合理的に評価される環境
+id: 35 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 目立たないが、場やチームの中心にいられる環境
+- 上下関係が明確な環境
+- 相談し合えて、仲間意識の強い環境
+- ズルい人や感情的にブレやすい人が少ない環境
+id: 36 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 自分のやり方を認めてもらえる環境
+- 人の役に立っていることが実感できる環境
+- 人まねではなく、自分の創意工夫が発揮できる環境
+- 行動を焦らされない環境
+id: 37 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 他人からの指図が少ない環境
+- アクシデントやトラブルをサポートしてもらえる環境
+- スピーディーな環境
+- プロ意識の高い集団
+id: 38 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 自然体で、安心できる環境
+- 無機質、人工的ではなく、自然を感じられる環境
+- 心を許せる仲間と力を合わせられる環境
+- 焦らせたり、急かされたりしない環境
+id: 39 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- ゆっくり時間をかけて結果を出すことが求められる環境
+- 勝ち目のある勝負に挑める環境
+- リスクが高い環境ではなく、堅実な環境
+- ストレスがたまり続けない環境
+id: 40 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 瞬間的な判断力やかけひき強さが活かせる環境
+- 堅苦しくない雰囲気
+- 小さな結果でもすぐに実感できる環境
+- 自分の頑張りが、合理的に評価される環境
+id: 41 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- ポジションや役割が明確な環境
+- 実績や経験が評価される環境
+- 他人ではなく自分しかできないなど、存在意義が感じられる環境
+- 一流の物や人に触れる機会が多い環境
+id: 42 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 自分の好きにやらせてくれる環境
+- スピード感があり、常に好奇心を刺激される環境
+- ファミリー的な温かさがある環境
+- 失敗しても怒られない環境
+id: 43 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- マイペースで取り組むことが許される環境
+- 信頼関係がある、平和な環境
+- 肩書きや立場で態度をコロコロ変えなくても良い環境
+- 研究や学術など、じっくり納得して没頭できる環境
+id: 44 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 常に新鮮さがあり、カッコいいと感じられる環
+- オープンで隠し事のない環境
+- 自分も含めてみんなで一緒に向上できる環境
+- 新しい人やモノに頻繁に出会える環境
+id: 45 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- ゆっくり時間をかけて結果を出すことが求められる環境
+- 勝ち目のある勝負に挑める環境
+- リスクが高い環境ではなく、堅実な環境
+- ストレスがたまり続けない環境
+id: 46 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 瞬間的な判断力やかけひき強さが活かせる環境
+- 堅苦しくない雰囲気
+- 小さな結果でもすぐに実感できる環境
+- 自分の頑張りが、合理的に評価される環境
+id: 47 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- ポジションや役割が明確な環境
+- 実績や経験が評価される環境
+- 他人ではなく自分しかできないなど、存在意義が感じられる環境
+- 一流の物や人に触れる機会が多い環境
+id: 48 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 自分の好きにやらせてくれる環境
+- スピード感があり、常に好奇心を刺激される環境
+- ファミリー的な温かさがある環境
+- 失敗しても怒られない環境
+id: 49 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- マイペースで取り組むことが許される環境
+- 信頼関係がある、平和な環境
+- 肩書きや立場で態度をコロコロ変えなくても良い環境
+- 研究や学術など、じっくり納得して没頭できる環境
+id: 50 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 常に新鮮さがあり、カッコいいと感じられる環
+- オープンで隠し事のない環境
+- 自分も含めてみんなで一緒に向上できる環境
+- 新しい人やモノに頻繁に出会える環境
+id: 51 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 序列や上下関係ががはっきりしている環境
+- いい加減さや間違いが少ない環境
+- 自分も人も、完璧を追い求められるような環境
+- 仲間の面倒見てあげられる環境
+id: 52 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 序列や上下関係ががはっきりしている環境
+- いい加減さや間違いが少ない環境
+- 自分も人も、完璧を追い求められるような環境
+- 仲間の面倒見てあげられる環境
+id: 53 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 常に新鮮さがあり、カッコいいと感じられる環
+- オープンで隠し事のない環境
+- 自分も含めてみんなで一緒に向上できる環境
+- 新しい人やモノに頻繁に出会える環境
+id: 54 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- マイペースで取り組むことが許される環境
+- 信頼関係がある、平和な環境
+- 肩書きや立場で態度をコロコロ変えなくても良い環境
+- 研究や学術など、じっくり納得して没頭できる環境
+id: 55 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- マイペースで取り組むことが許される環境
+- 信頼関係がある、平和な環境
+- 肩書きや立場で態度をコロコロ変えなくても良い環境
+- 研究や学術など、じっくり納得して没頭できる環境
+id: 56 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 常に新鮮さがあり、カッコいいと感じられる環
+- オープンで隠し事のない環境
+- 自分も含めてみんなで一緒に向上できる環境
+- 新しい人やモノに頻繁に出会える環境
+id: 57 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 序列や上下関係ががはっきりしている環境
+- いい加減さや間違いが少ない環境
+- 自分も人も、完璧を追い求められるような環境
+- 仲間の面倒見てあげられる環境
+id: 58 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 序列や上下関係ががはっきりしている環境
+- いい加減さや間違いが少ない環境
+- 自分も人も、完璧を追い求められるような環境
+- 仲間の面倒見てあげられる環境
+id: 59 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- 常に新鮮さがあり、カッコいいと感じられる環
+- オープンで隠し事のない環境
+- 自分も含めてみんなで一緒に向上できる環境
+- 新しい人やモノに頻繁に出会える環境
+id: 60 name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+environments:
+- マイペースで取り組むことが許される環境
+- 信頼関係がある、平和な環境
+- 肩書きや立場で態度をコロコロ変えなくても良い環境
+- 研究や学術など、じっくり納得して没頭できる環境
