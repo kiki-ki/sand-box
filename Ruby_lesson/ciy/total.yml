@@ -1,4 +1,5 @@
-1 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+1 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: forest
   catch_copy: 一言で言うと、好奇心旺盛、華やかでモテる人！
   comments:
     -
@@ -73,7 +74,8 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-2 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+2 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: prairie
   catch_copy: 一言で言うと、穏やかで控えめな、愛嬌ある人！
   comments:
     -
@@ -148,7 +150,8 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-3 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+3 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: fire
   catch_copy: 一言で言うと、即行動型のマルチプレーヤー！
   comments:
     -
@@ -223,7 +226,8 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-4 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+4 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: light
   catch_copy: 一言で言うと、気鋭で頭脳派の自信家！
   comments:
     -
@@ -298,7 +302,8 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-5 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+5 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: wind
   catch_copy: 一言で言うと、我が道を行く自由人！
   comments:
     -
@@ -373,7 +378,8 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-6 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+6 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: earth
   catch_copy: 一言で言うと、人情あふれる博愛主義者！
   comments:
     -
@@ -448,7 +454,8 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-7 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+7 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: snow
   catch_copy: 一言で言うと、品格とシャープさを兼ね備えた自由人！
   comments:
     -
@@ -523,7 +530,8 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-8 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+8 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: star
   catch_copy: 一言で言うと、世渡り上手な末っ子タイプ！
   comments:
     -
@@ -598,7 +606,8 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-9 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+9 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: sky
   catch_copy: 一言で言うと、あくなき探究心のアイデアマン！
   comments:
     -
@@ -673,7 +682,8 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-10: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+10: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: mist
   catch_copy: 一言で言うと、プライドが高いギャップ萌え！
   comments:
     -
@@ -748,7 +758,8 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-11: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+11: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: forest
   catch_copy: 一言で言うと、素直で甘え上手な愛されキャラ！
   comments:
     -
@@ -823,7 +834,8 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-12: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+12: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: prairie
   catch_copy: 一言で言うと、頭脳派で行動力のあるスーパー仕事人！
   comments:
     -
@@ -898,7 +910,8 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-13: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+13: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: fire
   catch_copy: 一言で言うと、個性的で隠れた人気者！
   comments:
     -
@@ -973,7 +986,8 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-14: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+14: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: light
   catch_copy: 一言で言うと、ゆるやかに生きる常識人！
   comments:
     -
@@ -1048,7 +1062,8 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-15: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+15: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: wind
   catch_copy: 一言で言うと、カンの鋭いチームのエース！
   comments:
     -
@@ -1123,7 +1138,8 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-16: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+16: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: earth
   catch_copy: 一言で言うと、ちゃっかり者で、縁の下の力持ち！
   comments:
     -
@@ -1198,7 +1214,8 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-17: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+17: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: snow
   catch_copy: 一言で言うと、強い信念をもって継続できる人！
   comments:
     -
@@ -1273,7 +1290,8 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-18: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+18: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: star
   catch_copy: 一言で言うと、気品あふれる影の努力家！
   comments:
     -
@@ -1348,7 +1366,8 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-19: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+19: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: sky
   catch_copy: 一言で言うと、常に変化をもとめるチャレンジャー！
   comments:
     -
@@ -1423,7 +1442,8 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-20: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+20: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: mist
   catch_copy: 一言で言うと、石橋を叩きまくって渡る慎重派！
   comments:
     -
@@ -1498,7 +1518,8 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-21: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+21: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: forest
   catch_copy: 一言で言うと、気まぐれな天才肌！
   comments:
     -
@@ -1573,7 +1594,8 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-22: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+22: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: prairie
   catch_copy: 一言で言うと、リーダーにもなれる一匹狼！
   comments:
     -
@@ -1648,7 +1670,8 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-23: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+23: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: fire
   catch_copy: 一言で言うと、無邪気で優しい、かけひき上手！
   comments:
     -
@@ -1723,7 +1746,8 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-24: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+24: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: light
   catch_copy: 一言で言うと、知性とユーモアを兼ね備えた人気者タイプ！
   comments:
     -
@@ -1798,7 +1822,8 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-25: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+25: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: wind
   catch_copy: 一言で言うと、今を楽しく！な超正直者！
   comments:
     -
@@ -1873,7 +1898,8 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-26: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+26: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: earth
   catch_copy: 一言で言うと、穏やかな心を持った人付き合いの達人！
   comments:
     -
@@ -1948,7 +1974,8 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-27: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+27: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: snow
   catch_copy: 一言で言うと、感受性豊かで強烈な個性の持ち主！
   comments:
     -
@@ -2023,7 +2050,8 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-28: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+28: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: star
   catch_copy: 一言で言うと、一途で純粋、すばやい行動力の持ち主！
   comments:
     -
@@ -2098,7 +2126,8 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-29: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+29: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: sky
   catch_copy: 一言で言うと、知的で温厚、友達が多い人気者！
   comments:
     -
@@ -2173,7 +2202,8 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-30: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+30: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: mist
   catch_copy: 一言で言うと、明るく華やかな個性派さん！
   comments:
     -
@@ -2248,7 +2278,8 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-31: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+31: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: forest
   catch_copy: 一言で言うと、素直でひたむきな超努力家！
   comments:
     -
@@ -2323,7 +2354,8 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-32: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+32: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: prairie
   catch_copy: 一言で言うと、気配りできてしっかり者の世渡り上手！
   comments:
     -
@@ -2398,7 +2430,8 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-33: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+33: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: fire
   catch_copy: 一言で言うと、社交的で世渡り上手な人気者！
   comments:
     -
@@ -2473,7 +2506,8 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-34: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+34: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: light
   catch_copy: 一言で言うと、気さくで爽やか、強い存在感が特徴！
   comments:
     -
@@ -2548,7 +2582,8 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-35: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+35: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: wind
   catch_copy: 一言で言うと、思いやりと正義感にあふれた情熱家！
   comments:
     -
@@ -2623,7 +2658,8 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-36: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+36: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: earth
   catch_copy: 一言で言うと、独創性に富んだミステリアスな人！
   comments:
     -
@@ -2698,7 +2734,8 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-37: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+37: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: snow
   catch_copy: 一言で言うと、身も心も丈夫な真っ直ぐな人！
   comments:
     -
@@ -2773,7 +2810,8 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-38: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+38: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: star
   catch_copy: 一言で言うと、子供のような心をもった純粋な人！
   comments:
     -
@@ -2848,7 +2886,8 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-39: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+39: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: sky
   catch_copy: 一言で言うと、個性豊かなロマンチスト！
   comments:
     -
@@ -2923,7 +2962,8 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-40: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+40: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: mist
   catch_copy: 一言で言うと、器用で親切、尽くしたがりさん！
   comments:
     -
@@ -2998,7 +3038,8 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-41: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+41: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: forest
   catch_copy: 一言で言うと、大器晩成型の努力家、影の実力者！
   comments:
     -
@@ -3073,7 +3114,8 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-42: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+42: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: prairie
   catch_copy: 一言で言うと、高い理想に向かってひた走る情熱家！
   comments:
     -
@@ -3148,7 +3190,8 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-43: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+43: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: fire
   catch_copy: 一言で言うと、頭脳明晰、温厚でマイペースな人！
   comments:
     -
@@ -3223,7 +3266,8 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-44: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+44: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: light
   catch_copy: 一言で言うと、社交性と独創性に優れた野心家！
   comments:
     -
@@ -3298,7 +3342,8 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-45: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+45: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: wind
   catch_copy: 一言で言うと、気品と知性を兼ね備えたお人好し！
   comments:
     -
@@ -3373,7 +3418,8 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-46: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+46: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: earth
   catch_copy: 一言で言うと、明るく社交的な堅実派！
   comments:
     -
@@ -3448,7 +3494,8 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-47: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+47: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: snow
   catch_copy: 一言で言うと、誠実+ど根性、みんなのお手本タイプ！
   comments:
     -
@@ -3523,7 +3570,8 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-48: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+48: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: star
   catch_copy: 一言で言うと、素直で開放的なあわてんぼう！
   comments:
     -
@@ -3598,7 +3646,8 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-49: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+49: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: sky
   catch_copy: 一言で言うと、多趣味で器用、スーパーポジティブ！
   comments:
     -
@@ -3673,7 +3722,8 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-50: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+50: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: mist
   catch_copy: 一言で言うと、優しさと強さを兼ね備えた大人な人！
   comments:
     -
@@ -3748,7 +3798,8 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-51: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+51: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: forest
   catch_copy: 一言で言うと、強い意志をもった完璧主義者！
   comments:
     -
@@ -3823,7 +3874,8 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-52: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+52: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: prairie
   catch_copy: 一言で言うと、鋭く独創的な感性を持った、優雅な人！
   comments:
     -
@@ -3898,7 +3950,8 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-53: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+53: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: fire
   catch_copy: 一言で言うと、純粋無垢で気ままな自由人！
   comments:
     -
@@ -3973,7 +4026,8 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-54: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+54: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: light
   catch_copy: 一言で言うと、優しく素直で皆に頼られる人！
   comments:
     -
@@ -4048,7 +4102,8 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-55: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+55: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: wind
   catch_copy: 一言で言うと、真っ直ぐでブレのない、頼もしい人！
   comments:
     -
@@ -4123,7 +4178,8 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-56: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+56: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: earth
   catch_copy: 一言で言うと、ハイセンスで好奇心旺盛なチャレンジャー！
   comments:
     -
@@ -4198,7 +4254,8 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-57: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+57: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: snow
   catch_copy: 一言で言うと、明るく真面目で安定感のある人！
   comments:
     -
@@ -4273,7 +4330,8 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-58: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+58: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: star
   catch_copy: 一言で言うと、強い信念とガラスのハートを持ち合わせた人！
   comments:
     -
@@ -4348,7 +4406,8 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-59: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+59: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: sky
   catch_copy: 一言で言うと、クールで不言実行なリーダータイプ！
   comments:
     -
@@ -4423,7 +4482,8 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-60: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job: element:
+60: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name: image_names: color: job:
+  element: mist
   catch_copy: 一言で言うと、親切で行動力もあるみんなの人気者！
   comments:
     -
