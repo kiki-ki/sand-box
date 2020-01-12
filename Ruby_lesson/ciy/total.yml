@@ -1,4 +1,13 @@
-1 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+1 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      みんなが無理と思っていることにチャレンジできること
+    -
+      好奇心を満たすこと
+    -
+      プラス思考で物ごとを考えるたり組み立てたりすること
+    -
+      プライドを尊重されること
   dislikes:
     -
       ネガティブなことやグチを聞かされること
@@ -35,7 +44,16 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-2 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+2 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      実績や経験を積んで、腕を磨くこと
+    -
+      役割分担が明確なこと
+    -
+      ここぞという出番で、目立てること
+    -
+      希少性の高いものやブランド品
   dislikes:
     -
       経験を否定されたり実績が傷つけられること
@@ -72,7 +90,16 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-3 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+3 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      自信のある分野で注目されること
+    -
+      スピーディに物ごとを進めて、結果を出すこと
+    -
+      白黒はっきりしていること
+    -
+      フロンティアスピリッツを活かしてチャレンジできること
   dislikes:
     -
       すぐに結果が出ないことに長期的に取り組むこと
@@ -109,7 +136,16 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-4 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+4 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      長期的に夢を叶えること
+    -
+      リゾート地や温泉などでボーッとリラックスすること
+    -
+      盛り上がること
+    -
+      清潔な空間や健康管理に気をつけること
   dislikes:
     -
       なめられること
@@ -146,7 +182,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-5 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+5 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      新しいものや最先端の話題
+    -
+      気を遣われること
+    -
+      最前線で活躍できること
+    -
+      スマートな人気者になること
   dislikes:
     -
       人前で叱られること
@@ -183,7 +228,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-6 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+6 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      全体像をつかんで、バランスを取ること
+    -
+      自分のペースで物ごとに取り組めること
+    -
+      誠心誠意取り組むこと
+    -
+      人の面倒を見ること
   dislikes:
     -
       お世辞やゴマすり、おだてられること
@@ -220,7 +274,16 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-7 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+7 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      みんなが無理と思っていることにチャレンジできること
+    -
+      好奇心を満たすこと
+    -
+      プラス思考で物ごとを考えるたり組み立てたりすること
+    -
+      プライドを尊重されること
   dislikes:
     -
       ネガティブなことやグチを聞かされること
@@ -257,7 +320,16 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-8 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+8 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      実績や経験を積んで、腕を磨くこと
+    -
+      役割分担が明確なこと
+    -
+      ここぞという出番で、目立てること
+    -
+      希少性の高いものやブランド品
   dislikes:
     -
       経験を否定されたり実績が傷つけられること
@@ -294,7 +366,16 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-9 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+9 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      自信のある分野で注目されること
+    -
+      スピーディに物ごとを進めて、結果を出すこと
+    -
+      白黒はっきりしていること
+    -
+      フロンティアスピリッツを活かしてチャレンジできること
   dislikes:
     -
       すぐに結果が出ないことに長期的に取り組むこと
@@ -331,7 +412,16 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-10: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+10: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      長期的に夢を叶えること
+    -
+      リゾート地や温泉などでボーッとリラックスすること
+    -
+      盛り上がること
+    -
+      清潔な空間や健康管理に気をつけること
   dislikes:
     -
       なめられること
@@ -368,7 +458,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-11: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+11: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      ありのままの自分でいられること
+    -
+      海や山など自然の中に身をおくこと
+    -
+      愛情を感じたり甘えられること
+    -
+      人を育てたり、教えたりすること
   dislikes:
     -
       嘘をつかれること
@@ -405,7 +504,16 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-12: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+12: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      サプライズやイベントの企画
+    -
+      プロ意識を持って、道を極めること
+    -
+      今日中に仕上げること
+    -
+      口ではなく行動で結果を出すこと
   dislikes:
     -
       自分の時間を大事にされない、ムダにされること
@@ -442,7 +550,16 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-13: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+13: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      独創的なアイデアやオリジナリティ
+    -
+      誰にも邪魔されない、マイペースな時間の中で考えること
+    -
+      時代の先を読んで、目標に向かって前進すること
+    -
+      一貫性があること
   dislikes:
     -
       自分のペースを乱されること
@@ -479,7 +596,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-14: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+14: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      大切な人に頼られたり相談されること
+    -
+      情報収集して、誰も知らない情報を得ること
+    -
+      人とのつながりを大事にして人脈を広げること
+    -
+      客観的に物ごとを判断すること
   dislikes:
     -
       独りぼっちや仲間はずれにされること
@@ -516,7 +642,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-15: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+15: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      自信のある分野で注目されること
+    -
+      スピーディに物ごとを進めて、結果を出すこと
+    -
+      白黒はっきりしていること
+    -
+      フロンティアスピリッツを活かしてチャレンジできること
   dislikes:
     -
       すぐに結果が出ないことに長期的に取り組むこと
@@ -553,7 +688,16 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-16: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+16: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      長期的に夢を叶えること
+    -
+      リゾート地や温泉などでボーッとリラックスすること
+    -
+      盛り上がること
+    -
+      清潔な空間や健康管理に気をつけること
   dislikes:
     -
       なめられること
@@ -590,7 +734,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-17: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+17: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      ありのままの自分でいられること
+    -
+      海や山など自然の中に身をおくこと
+    -
+      愛情を感じたり甘えられること
+    -
+      人を育てたり、教えたりすること
   dislikes:
     -
       嘘をつかれること
@@ -627,7 +780,16 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-18: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+18: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      サプライズやイベントの企画
+    -
+      プロ意識を持って、道を極めること
+    -
+      今日中に仕上げること
+    -
+      口ではなく行動で結果を出すこと
   dislikes:
     -
       自分の時間を大事にされない、ムダにされること
@@ -664,7 +826,16 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-19: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+19: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      独創的なアイデアやオリジナリティ
+    -
+      誰にも邪魔されない、マイペースな時間の中で考えること
+    -
+      時代の先を読んで、目標に向かって前進すること
+    -
+      一貫性があること
   dislikes:
     -
       自分のペースを乱されること
@@ -701,7 +872,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-20: name: image_names: color: job: element: catch_copy: comments: - - feature: keyworss: - - - - - - - - - - likes: - - - -
+20: name: image_names: color: job: element: catch_copy: comments: - - feature: keyworss: - - - - - - - - - -
+  likes:
+    -
+      大切な人に頼られたり相談されること
+    -
+      情報収集して、誰も知らない情報を得ること
+    -
+      人とのつながりを大事にして人脈を広げること
+    -
+      客観的に物ごとを判断すること
   dislikes:
     -
       独りぼっちや仲間はずれにされること
@@ -738,7 +918,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-21: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+21: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      ゼロから何かを生み出すこと
+    -
+      自分の思ったとおりに自由に行動すること
+    -
+      臨機応変に、柔軟に対応すること
+    -
+      未来を想像しながらワクワクすること
   dislikes:
     -
       束縛されること
@@ -775,7 +964,16 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-22: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+22: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      ゼロから何かを生み出すこと
+    -
+      自分の思ったとおりに自由に行動すること
+    -
+      臨機応変に、柔軟に対応すること
+    -
+      未来を想像しながらワクワクすること
   dislikes:
     -
       束縛されること
@@ -812,7 +1010,16 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-23: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+23: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      大切な人に頼られたり相談されること
+    -
+      情報収集して、誰も知らない情報を得ること
+    -
+      人とのつながりを大事にして人脈を広げること
+    -
+      客観的に物ごとを判断すること
   dislikes:
     -
       独りぼっちや仲間はずれにされること
@@ -849,7 +1056,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-24: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+24: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      独創的なアイデアやオリジナリティ
+    -
+      誰にも邪魔されない、マイペースな時間の中で考えること
+    -
+      時代の先を読んで、目標に向かって前進すること
+    -
+      一貫性があること
   dislikes:
     -
       自分のペースを乱されること
@@ -886,7 +1102,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-25: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+25: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      独創的なアイデアやオリジナリティ
+    -
+      誰にも邪魔されない、マイペースな時間の中で考えること
+    -
+      時代の先を読んで、目標に向かって前進すること
+    -
+      一貫性があること
   dislikes:
     -
       自分のペースを乱されること
@@ -923,7 +1148,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-26: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+26: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      大切な人に頼られたり相談されること
+    -
+      情報収集して、誰も知らない情報を得ること
+    -
+      人とのつながりを大事にして人脈を広げること
+    -
+      客観的に物ごとを判断すること
   dislikes:
     -
       独りぼっちや仲間はずれにされること
@@ -960,7 +1194,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-27: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+27: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      ゼロから何かを生み出すこと
+    -
+      自分の思ったとおりに自由に行動すること
+    -
+      臨機応変に、柔軟に対応すること
+    -
+      未来を想像しながらワクワクすること
   dislikes:
     -
       束縛されること
@@ -997,7 +1240,16 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-28: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+28: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      ゼロから何かを生み出すこと
+    -
+      自分の思ったとおりに自由に行動すること
+    -
+      臨機応変に、柔軟に対応すること
+    -
+      未来を想像しながらワクワクすること
   dislikes:
     -
       束縛されること
@@ -1034,7 +1286,16 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-29: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+29: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      大切な人に頼られたり相談されること
+    -
+      情報収集して、誰も知らない情報を得ること
+    -
+      人とのつながりを大事にして人脈を広げること
+    -
+      客観的に物ごとを判断すること
   dislikes:
     -
       独りぼっちや仲間はずれにされること
@@ -1071,7 +1332,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-30: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+30: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      独創的なアイデアやオリジナリティ
+    -
+      誰にも邪魔されない、マイペースな時間の中で考えること
+    -
+      時代の先を読んで、目標に向かって前進すること
+    -
+      一貫性があること
   dislikes:
     -
       自分のペースを乱されること
@@ -1108,7 +1378,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-31: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+31: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      サプライズやイベントの企画
+    -
+      プロ意識を持って、道を極めること
+    -
+      今日中に仕上げること
+    -
+      口ではなく行動で結果を出すこと
   dislikes:
     -
       自分の時間を大事にされない、ムダにされること
@@ -1145,7 +1424,16 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-32: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+32: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      ありのままの自分でいられること
+    -
+      海や山など自然の中に身をおくこと
+    -
+      愛情を感じたり甘えられること
+    -
+      人を育てたり、教えたりすること
   dislikes:
     -
       嘘をつかれること
@@ -1182,7 +1470,16 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-33: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+33: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      長期的に夢を叶えること
+    -
+      リゾート地や温泉などでボーッとリラックスすること
+    -
+      盛り上がること
+    -
+      清潔な空間や健康管理に気をつけること
   dislikes:
     -
       なめられること
@@ -1219,7 +1516,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-34: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+34: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      自信のある分野で注目されること
+    -
+      スピーディに物ごとを進めて、結果を出すこと
+    -
+      白黒はっきりしていること
+    -
+      フロンティアスピリッツを活かしてチャレンジできること
   dislikes:
     -
       すぐに結果が出ないことに長期的に取り組むこと
@@ -1256,7 +1562,16 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-35: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+35: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      大切な人に頼られたり相談されること
+    -
+      情報収集して、誰も知らない情報を得ること
+    -
+      人とのつながりを大事にして人脈を広げること
+    -
+      客観的に物ごとを判断すること
   dislikes:
     -
       独りぼっちや仲間はずれにされること
@@ -1293,7 +1608,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-36: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+36: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      独創的なアイデアやオリジナリティ
+    -
+      誰にも邪魔されない、マイペースな時間の中で考えること
+    -
+      時代の先を読んで、目標に向かって前進すること
+    -
+      一貫性があること
   dislikes:
     -
       自分のペースを乱されること
@@ -1330,7 +1654,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-37: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+37: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      サプライズやイベントの企画
+    -
+      プロ意識を持って、道を極めること
+    -
+      今日中に仕上げること
+    -
+      口ではなく行動で結果を出すこと
   dislikes:
     -
       自分の時間を大事にされない、ムダにされること
@@ -1367,7 +1700,16 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-38: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+38: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      ありのままの自分でいられること
+    -
+      海や山など自然の中に身をおくこと
+    -
+      愛情を感じたり甘えられること
+    -
+      人を育てたり、教えたりすること
   dislikes:
     -
       嘘をつかれること
@@ -1404,7 +1746,16 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-39: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+39: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      長期的に夢を叶えること
+    -
+      リゾート地や温泉などでボーッとリラックスすること
+    -
+      盛り上がること
+    -
+      清潔な空間や健康管理に気をつけること
   dislikes:
     -
       なめられること
@@ -1441,7 +1792,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-40: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+40: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      自信のある分野で注目されること
+    -
+      スピーディに物ごとを進めて、結果を出すこと
+    -
+      白黒はっきりしていること
+    -
+      フロンティアスピリッツを活かしてチャレンジできること
   dislikes:
     -
       すぐに結果が出ないことに長期的に取り組むこと
@@ -1478,7 +1838,16 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-41: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+41: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      実績や経験を積んで、腕を磨くこと
+    -
+      役割分担が明確なこと
+    -
+      ここぞという出番で、目立てること
+    -
+      希少性の高いものやブランド品
   dislikes:
     -
       経験を否定されたり実績が傷つけられること
@@ -1515,7 +1884,16 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-42: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+42: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      みんなが無理と思っていることにチャレンジできること
+    -
+      好奇心を満たすこと
+    -
+      プラス思考で物ごとを考えるたり組み立てたりすること
+    -
+      プライドを尊重されること
   dislikes:
     -
       ネガティブなことやグチを聞かされること
@@ -1552,7 +1930,16 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-43: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+43: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      全体像をつかんで、バランスを取ること
+    -
+      自分のペースで物ごとに取り組めること
+    -
+      誠心誠意取り組むこと
+    -
+      人の面倒を見ること
   dislikes:
     -
       お世辞やゴマすり、おだてられること
@@ -1589,7 +1976,16 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-44: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+44: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      新しいものや最先端の話題
+    -
+      気を遣われること
+    -
+      最前線で活躍できること
+    -
+      スマートな人気者になること
   dislikes:
     -
       人前で叱られること
@@ -1626,7 +2022,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-45: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+45: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      長期的に夢を叶えること
+    -
+      リゾート地や温泉などでボーッとリラックスすること
+    -
+      盛り上がること
+    -
+      清潔な空間や健康管理に気をつけること
   dislikes:
     -
       なめられること
@@ -1663,7 +2068,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-46: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+46: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      自信のある分野で注目されること
+    -
+      スピーディに物ごとを進めて、結果を出すこと
+    -
+      白黒はっきりしていること
+    -
+      フロンティアスピリッツを活かしてチャレンジできること
   dislikes:
     -
       すぐに結果が出ないことに長期的に取り組むこと
@@ -1700,7 +2114,16 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-47: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+47: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      実績や経験を積んで、腕を磨くこと
+    -
+      役割分担が明確なこと
+    -
+      ここぞという出番で、目立てること
+    -
+      希少性の高いものやブランド品
   dislikes:
     -
       経験を否定されたり実績が傷つけられること
@@ -1737,7 +2160,16 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-48: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+48: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      みんなが無理と思っていることにチャレンジできること
+    -
+      好奇心を満たすこと
+    -
+      プラス思考で物ごとを考えるたり組み立てたりすること
+    -
+      プライドを尊重されること
   dislikes:
     -
       ネガティブなことやグチを聞かされること
@@ -1774,7 +2206,16 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-49: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+49: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      全体像をつかんで、バランスを取ること
+    -
+      自分のペースで物ごとに取り組めること
+    -
+      誠心誠意取り組むこと
+    -
+      人の面倒を見ること
   dislikes:
     -
       お世辞やゴマすり、おだてられること
@@ -1811,7 +2252,16 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-50: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+50: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      新しいものや最先端の話題
+    -
+      気を遣われること
+    -
+      最前線で活躍できること
+    -
+      スマートな人気者になること
   dislikes:
     -
       人前で叱られること
@@ -1848,7 +2298,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-51: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+51: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      威厳のある態度を示し、堂々としていること
+    -
+      特別扱いされること
+    -
+      細かなことにも気を配り、完璧にこなすこと
+    -
+      ボス的な頼られ方をすること
   dislikes:
     -
       横柄な態度や、礼儀礼節に欠ける行動をされること
@@ -1885,7 +2344,16 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-52: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+52: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      威厳のある態度を示し、堂々としていること
+    -
+      特別扱いされること
+    -
+      細かなことにも気を配り、完璧にこなすこと
+    -
+      ボス的な頼られ方をすること
   dislikes:
     -
       横柄な態度や、礼儀礼節に欠ける行動をされること
@@ -1922,7 +2390,16 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-53: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+53: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      新しいものや最先端の話題
+    -
+      気を遣われること
+    -
+      最前線で活躍できること
+    -
+      スマートな人気者になること
   dislikes:
     -
       人前で叱られること
@@ -1959,7 +2436,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-54: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+54: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      全体像をつかんで、バランスを取ること
+    -
+      自分のペースで物ごとに取り組めること
+    -
+      誠心誠意取り組むこと
+    -
+      人の面倒を見ること
   dislikes:
     -
       お世辞やゴマすり、おだてられること
@@ -1996,7 +2482,16 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-55: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+55: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      全体像をつかんで、バランスを取ること
+    -
+      自分のペースで物ごとに取り組めること
+    -
+      誠心誠意取り組むこと
+    -
+      人の面倒を見ること
   dislikes:
     -
       お世辞やゴマすり、おだてられること
@@ -2033,7 +2528,16 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-56: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+56: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      新しいものや最先端の話題
+    -
+      気を遣われること
+    -
+      最前線で活躍できること
+    -
+      スマートな人気者になること
   dislikes:
     -
       人前で叱られること
@@ -2070,7 +2574,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-57: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+57: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      威厳のある態度を示し、堂々としていること
+    -
+      特別扱いされること
+    -
+      細かなことにも気を配り、完璧にこなすこと
+    -
+      ボス的な頼られ方をすること
   dislikes:
     -
       横柄な態度や、礼儀礼節に欠ける行動をされること
@@ -2107,7 +2620,16 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-58: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+58: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      威厳のある態度を示し、堂々としていること
+    -
+      特別扱いされること
+    -
+      細かなことにも気を配り、完璧にこなすこと
+    -
+      ボス的な頼られ方をすること
   dislikes:
     -
       横柄な態度や、礼儀礼節に欠ける行動をされること
@@ -2144,7 +2666,16 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-59: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+59: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      新しいものや最先端の話題
+    -
+      気を遣われること
+    -
+      最前線で活躍できること
+    -
+      スマートな人気者になること
   dislikes:
     -
       人前で叱られること
@@ -2181,7 +2712,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-60: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+60: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+  likes:
+    -
+      全体像をつかんで、バランスを取ること
+    -
+      自分のペースで物ごとに取り組めること
+    -
+      誠心誠意取り組むこと
+    -
+      人の面倒を見ること
   dislikes:
     -
       お世辞やゴマすり、おだてられること
