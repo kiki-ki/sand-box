@@ -1,4 +1,13 @@
-1 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+1 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      ネガティブなことやグチを聞かされること
+    -
+      失敗したことを指摘されたり引きずられること
+    -
+      人の悪口や批判的な意見を聞くこと
+    -
+      細かく指示されたり、理屈で詰められること
   behavior_patterns:
     -
       行動的でスピーディーだが、長続きしない
@@ -26,7 +35,16 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-2 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+2 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      経験を否定されたり実績が傷つけられること
+    -
+      束縛されること
+    -
+      存在感が無いと感じること
+    -
+      二流の品や歴史が浅いもの
   behavior_patterns:
     -
       社交的だが、初対面ではおとなしい印象
@@ -54,7 +72,16 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-3 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+3 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      すぐに結果が出ないことに長期的に取り組むこと
+    -
+      グズグズして、はっきりしないこと
+    -
+      ギブ＆テイクがないこと
+    -
+      急なアクシデントや障害の対応をさせられること
   behavior_patterns:
     -
       どんなことでもゲーム感覚で楽しむ
@@ -82,7 +109,16 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-4 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+4 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      なめられること
+    -
+      ペースを乱されること
+    -
+      ストレス発散する時間が取れないこと
+    -
+      負けるとわかっている勝負
   behavior_patterns:
     -
       一人で過ごすプライベートな時間を大事にする
@@ -110,7 +146,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-5 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+5 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      人前で叱られること
+    -
+      乱暴な態度や強引な行動
+    -
+      プライベートに立ち入られること
+    -
+      汚かったり雑然としていること
   behavior_patterns:
     -
       形から入る
@@ -138,7 +183,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-6 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+6 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      お世辞やゴマすり、おだてられること
+    -
+      筋が通らないこと
+    -
+      言い方や口のきき方が悪いこと
+    -
+      納得していないのに、無理に進められること
   behavior_patterns:
     -
       意思決定までに時間をかける
@@ -166,7 +220,16 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-7 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+7 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      ネガティブなことやグチを聞かされること
+    -
+      失敗したことを指摘されたり引きずられること
+    -
+      人の悪口や批判的な意見を聞くこと
+    -
+      細かく指示されたり、理屈で詰められること
   behavior_patterns:
     -
       行動的でスピーディーだが、長続きしない
@@ -194,7 +257,16 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-8 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+8 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      経験を否定されたり実績が傷つけられること
+    -
+      束縛されること
+    -
+      存在感が無いと感じること
+    -
+      二流の品や歴史が浅いもの
   behavior_patterns:
     -
       社交的だが、初対面ではおとなしい印象
@@ -222,7 +294,16 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-9 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+9 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      すぐに結果が出ないことに長期的に取り組むこと
+    -
+      グズグズして、はっきりしないこと
+    -
+      ギブ＆テイクがないこと
+    -
+      急なアクシデントや障害の対応をさせられること
   behavior_patterns:
     -
       どんなことでもゲーム感覚で楽しむ
@@ -250,7 +331,16 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-10: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+10: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      なめられること
+    -
+      ペースを乱されること
+    -
+      ストレス発散する時間が取れないこと
+    -
+      負けるとわかっている勝負
   behavior_patterns:
     -
       一人で過ごすプライベートな時間を大事にする
@@ -278,7 +368,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-11: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+11: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      嘘をつかれること
+    -
+      不安を感じること
+    -
+      ほったらかしにされること
+    -
+      かけひきをしたり、裏表があること
   behavior_patterns:
     -
       人見知りが激しく初対面では警戒しているが、ニコニコはできる
@@ -306,7 +405,16 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-12: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+12: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      自分の時間を大事にされない、ムダにされること
+    -
+      チームプレイや集団行動
+    -
+      手を抜かれたり、小細工をされること
+    -
+      すぐに動いてもらえないこと
   behavior_patterns:
     -
       思い立ったら、すぐ行動する
@@ -334,7 +442,16 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-13: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+13: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      自分のペースを乱されること
+    -
+      おべんちゃらやゴマすり
+    -
+      やっていることに干渉されたりケチをつけられること
+    -
+      経過報告が無かったり、指示が雑なこと
   behavior_patterns:
     -
       無愛想で、とっつきにくい印象がある
@@ -362,7 +479,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-14: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+14: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      独りぼっちや仲間はずれにされること
+    -
+      個性が強い人や自信過剰な人
+    -
+      約束を破られること
+    -
+      他人に無理やり押し付けられること
   behavior_patterns:
     -
       客観的に考えて、はっきり口に出す
@@ -390,7 +516,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-15: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+15: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      すぐに結果が出ないことに長期的に取り組むこと
+    -
+      グズグズして、はっきりしないこと
+    -
+      ギブ＆テイクがないこと
+    -
+      急なアクシデントや障害の対応をさせられること
   behavior_patterns:
     -
       どんなことでもゲーム感覚で楽しむ
@@ -418,7 +553,16 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-16: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+16: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      なめられること
+    -
+      ペースを乱されること
+    -
+      ストレス発散する時間が取れないこと
+    -
+      負けるとわかっている勝負
   behavior_patterns:
     -
       一人で過ごすプライベートな時間を大事にする
@@ -446,7 +590,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-17: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+17: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      嘘をつかれること
+    -
+      不安を感じること
+    -
+      ほったらかしにされること
+    -
+      かけひきをしたり、裏表があること
   behavior_patterns:
     -
       人見知りが激しく初対面では警戒しているが、ニコニコはできる
@@ -474,7 +627,16 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-18: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+18: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      自分の時間を大事にされない、ムダにされること
+    -
+      チームプレイや集団行動
+    -
+      手を抜かれたり、小細工をされること
+    -
+      すぐに動いてもらえないこと
   behavior_patterns:
     -
       思い立ったら、すぐ行動する
@@ -502,7 +664,16 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-19: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+19: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      自分のペースを乱されること
+    -
+      おべんちゃらやゴマすり
+    -
+      やっていることに干渉されたりケチをつけられること
+    -
+      経過報告が無かったり、指示が雑なこと
   behavior_patterns:
     -
       無愛想で、とっつきにくい印象がある
@@ -530,7 +701,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-20: name: image_names: color: job: element: catch_copy: comments: - - feature: keyworss: - - - - - - - - - - likes: - - - - dislikes: - - - -
+20: name: image_names: color: job: element: catch_copy: comments: - - feature: keyworss: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      独りぼっちや仲間はずれにされること
+    -
+      個性が強い人や自信過剰な人
+    -
+      約束を破られること
+    -
+      他人に無理やり押し付けられること
   behavior_patterns:
     -
       客観的に考えて、はっきり口に出す
@@ -558,7 +738,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-21: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+21: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      束縛されること
+    -
+      細かく指示されること
+    -
+      苦手なことを無理にさせられること
+    -
+      未来に希望が持てない状況
   behavior_patterns:
     -
       石橋を飛び越えて行動するような超行動派
@@ -586,7 +775,16 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-22: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+22: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      束縛されること
+    -
+      細かく指示されること
+    -
+      苦手なことを無理にさせられること
+    -
+      未来に希望が持てない状況
   behavior_patterns:
     -
       石橋を飛び越えて行動するような超行動派
@@ -614,7 +812,16 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-23: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+23: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      独りぼっちや仲間はずれにされること
+    -
+      個性が強い人や自信過剰な人
+    -
+      約束を破られること
+    -
+      他人に無理やり押し付けられること
   behavior_patterns:
     -
       客観的に考えて、はっきり口に出す
@@ -642,7 +849,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-24: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+24: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      自分のペースを乱されること
+    -
+      おべんちゃらやゴマすり
+    -
+      やっていることに干渉されたりケチをつけられること
+    -
+      経過報告が無かったり、指示が雑なこと
   behavior_patterns:
     -
       無愛想で、とっつきにくい印象がある
@@ -670,7 +886,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-25: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+25: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      自分のペースを乱されること
+    -
+      おべんちゃらやゴマすり
+    -
+      やっていることに干渉されたりケチをつけられること
+    -
+      経過報告が無かったり、指示が雑なこと
   behavior_patterns:
     -
       無愛想で、とっつきにくい印象がある
@@ -698,7 +923,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-26: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+26: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      独りぼっちや仲間はずれにされること
+    -
+      個性が強い人や自信過剰な人
+    -
+      約束を破られること
+    -
+      他人に無理やり押し付けられること
   behavior_patterns:
     -
       客観的に考えて、はっきり口に出す
@@ -726,7 +960,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-27: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+27: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      束縛されること
+    -
+      細かく指示されること
+    -
+      苦手なことを無理にさせられること
+    -
+      未来に希望が持てない状況
   behavior_patterns:
     -
       石橋を飛び越えて行動するような超行動派
@@ -754,7 +997,16 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-28: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+28: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      束縛されること
+    -
+      細かく指示されること
+    -
+      苦手なことを無理にさせられること
+    -
+      未来に希望が持てない状況
   behavior_patterns:
     -
       石橋を飛び越えて行動するような超行動派
@@ -782,7 +1034,16 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-29: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+29: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      独りぼっちや仲間はずれにされること
+    -
+      個性が強い人や自信過剰な人
+    -
+      約束を破られること
+    -
+      他人に無理やり押し付けられること
   behavior_patterns:
     -
       客観的に考えて、はっきり口に出す
@@ -810,7 +1071,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-30: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+30: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      自分のペースを乱されること
+    -
+      おべんちゃらやゴマすり
+    -
+      やっていることに干渉されたりケチをつけられること
+    -
+      経過報告が無かったり、指示が雑なこと
   behavior_patterns:
     -
       無愛想で、とっつきにくい印象がある
@@ -838,7 +1108,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-31: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+31: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      自分の時間を大事にされない、ムダにされること
+    -
+      チームプレイや集団行動
+    -
+      手を抜かれたり、小細工をされること
+    -
+      すぐに動いてもらえないこと
   behavior_patterns:
     -
       思い立ったら、すぐ行動する
@@ -866,7 +1145,16 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-32: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+32: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      嘘をつかれること
+    -
+      不安を感じること
+    -
+      ほったらかしにされること
+    -
+      かけひきをしたり、裏表があること
   behavior_patterns:
     -
       人見知りが激しく初対面では警戒しているが、ニコニコはできる
@@ -894,7 +1182,16 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-33: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+33: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      なめられること
+    -
+      ペースを乱されること
+    -
+      ストレス発散する時間が取れないこと
+    -
+      負けるとわかっている勝負
   behavior_patterns:
     -
       一人で過ごすプライベートな時間を大事にする
@@ -922,7 +1219,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-34: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+34: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      すぐに結果が出ないことに長期的に取り組むこと
+    -
+      グズグズして、はっきりしないこと
+    -
+      ギブ＆テイクがないこと
+    -
+      急なアクシデントや障害の対応をさせられること
   behavior_patterns:
     -
       どんなことでもゲーム感覚で楽しむ
@@ -950,7 +1256,16 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-35: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+35: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      独りぼっちや仲間はずれにされること
+    -
+      個性が強い人や自信過剰な人
+    -
+      約束を破られること
+    -
+      他人に無理やり押し付けられること
   behavior_patterns:
     -
       客観的に考えて、はっきり口に出す
@@ -978,7 +1293,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-36: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+36: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      自分のペースを乱されること
+    -
+      おべんちゃらやゴマすり
+    -
+      やっていることに干渉されたりケチをつけられること
+    -
+      経過報告が無かったり、指示が雑なこと
   behavior_patterns:
     -
       無愛想で、とっつきにくい印象がある
@@ -1006,7 +1330,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-37: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+37: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      自分の時間を大事にされない、ムダにされること
+    -
+      チームプレイや集団行動
+    -
+      手を抜かれたり、小細工をされること
+    -
+      すぐに動いてもらえないこと
   behavior_patterns:
     -
       思い立ったら、すぐ行動する
@@ -1034,7 +1367,16 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-38: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+38: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      嘘をつかれること
+    -
+      不安を感じること
+    -
+      ほったらかしにされること
+    -
+      かけひきをしたり、裏表があること
   behavior_patterns:
     -
       人見知りが激しく初対面では警戒しているが、ニコニコはできる
@@ -1062,7 +1404,16 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-39: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+39: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      なめられること
+    -
+      ペースを乱されること
+    -
+      ストレス発散する時間が取れないこと
+    -
+      負けるとわかっている勝負
   behavior_patterns:
     -
       一人で過ごすプライベートな時間を大事にする
@@ -1090,7 +1441,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-40: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+40: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      すぐに結果が出ないことに長期的に取り組むこと
+    -
+      グズグズして、はっきりしないこと
+    -
+      ギブ＆テイクがないこと
+    -
+      急なアクシデントや障害の対応をさせられること
   behavior_patterns:
     -
       どんなことでもゲーム感覚で楽しむ
@@ -1118,7 +1478,16 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-41: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+41: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      経験を否定されたり実績が傷つけられること
+    -
+      束縛されること
+    -
+      存在感が無いと感じること
+    -
+      二流の品や歴史が浅いもの
   behavior_patterns:
     -
       社交的だが、初対面ではおとなしい印象
@@ -1146,7 +1515,16 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-42: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+42: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      ネガティブなことやグチを聞かされること
+    -
+      失敗したことを指摘されたり引きずられること
+    -
+      人の悪口や批判的な意見を聞くこと
+    -
+      細かく指示されたり、理屈で詰められること
   behavior_patterns:
     -
       行動的でスピーディーだが、長続きしない
@@ -1174,7 +1552,16 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-43: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+43: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      お世辞やゴマすり、おだてられること
+    -
+      筋が通らないこと
+    -
+      言い方や口のきき方が悪いこと
+    -
+      納得していないのに、無理に進められること
   behavior_patterns:
     -
       意思決定までに時間をかける
@@ -1202,7 +1589,16 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-44: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+44: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      人前で叱られること
+    -
+      乱暴な態度や強引な行動
+    -
+      プライベートに立ち入られること
+    -
+      汚かったり雑然としていること
   behavior_patterns:
     -
       形から入る
@@ -1230,7 +1626,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-45: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+45: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      なめられること
+    -
+      ペースを乱されること
+    -
+      ストレス発散する時間が取れないこと
+    -
+      負けるとわかっている勝負
   behavior_patterns:
     -
       一人で過ごすプライベートな時間を大事にする
@@ -1258,7 +1663,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-46: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+46: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      すぐに結果が出ないことに長期的に取り組むこと
+    -
+      グズグズして、はっきりしないこと
+    -
+      ギブ＆テイクがないこと
+    -
+      急なアクシデントや障害の対応をさせられること
   behavior_patterns:
     -
       どんなことでもゲーム感覚で楽しむ
@@ -1286,7 +1700,16 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-47: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+47: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      経験を否定されたり実績が傷つけられること
+    -
+      束縛されること
+    -
+      存在感が無いと感じること
+    -
+      二流の品や歴史が浅いもの
   behavior_patterns:
     -
       社交的だが、初対面ではおとなしい印象
@@ -1314,7 +1737,16 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-48: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+48: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      ネガティブなことやグチを聞かされること
+    -
+      失敗したことを指摘されたり引きずられること
+    -
+      人の悪口や批判的な意見を聞くこと
+    -
+      細かく指示されたり、理屈で詰められること
   behavior_patterns:
     -
       行動的でスピーディーだが、長続きしない
@@ -1342,7 +1774,16 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-49: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+49: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      お世辞やゴマすり、おだてられること
+    -
+      筋が通らないこと
+    -
+      言い方や口のきき方が悪いこと
+    -
+      納得していないのに、無理に進められること
   behavior_patterns:
     -
       意思決定までに時間をかける
@@ -1370,7 +1811,16 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-50: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+50: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      人前で叱られること
+    -
+      乱暴な態度や強引な行動
+    -
+      プライベートに立ち入られること
+    -
+      汚かったり雑然としていること
   behavior_patterns:
     -
       形から入る
@@ -1398,7 +1848,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-51: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+51: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      横柄な態度や、礼儀礼節に欠ける行動をされること
+    -
+      人前で弱音をはくこと
+    -
+      専門家以外の人に口出しされること
+    -
+      謝ること
   behavior_patterns:
     -
       完璧主義者で、細かいことに気がつく
@@ -1426,7 +1885,16 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-52: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+52: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      横柄な態度や、礼儀礼節に欠ける行動をされること
+    -
+      人前で弱音をはくこと
+    -
+      専門家以外の人に口出しされること
+    -
+      謝ること
   behavior_patterns:
     -
       完璧主義者で、細かいことに気がつく
@@ -1454,7 +1922,16 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-53: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+53: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      人前で叱られること
+    -
+      乱暴な態度や強引な行動
+    -
+      プライベートに立ち入られること
+    -
+      汚かったり雑然としていること
   behavior_patterns:
     -
       形から入る
@@ -1482,7 +1959,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-54: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+54: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      お世辞やゴマすり、おだてられること
+    -
+      筋が通らないこと
+    -
+      言い方や口のきき方が悪いこと
+    -
+      納得していないのに、無理に進められること
   behavior_patterns:
     -
       意思決定までに時間をかける
@@ -1510,7 +1996,16 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-55: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+55: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      お世辞やゴマすり、おだてられること
+    -
+      筋が通らないこと
+    -
+      言い方や口のきき方が悪いこと
+    -
+      納得していないのに、無理に進められること
   behavior_patterns:
     -
       意思決定までに時間をかける
@@ -1538,7 +2033,16 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-56: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+56: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      人前で叱られること
+    -
+      乱暴な態度や強引な行動
+    -
+      プライベートに立ち入られること
+    -
+      汚かったり雑然としていること
   behavior_patterns:
     -
       形から入る
@@ -1566,7 +2070,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-57: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+57: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      横柄な態度や、礼儀礼節に欠ける行動をされること
+    -
+      人前で弱音をはくこと
+    -
+      専門家以外の人に口出しされること
+    -
+      謝ること
   behavior_patterns:
     -
       完璧主義者で、細かいことに気がつく
@@ -1594,7 +2107,16 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-58: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+58: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      横柄な態度や、礼儀礼節に欠ける行動をされること
+    -
+      人前で弱音をはくこと
+    -
+      専門家以外の人に口出しされること
+    -
+      謝ること
   behavior_patterns:
     -
       完璧主義者で、細かいことに気がつく
@@ -1622,7 +2144,16 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-59: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+59: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      人前で叱られること
+    -
+      乱暴な態度や強引な行動
+    -
+      プライベートに立ち入られること
+    -
+      汚かったり雑然としていること
   behavior_patterns:
     -
       形から入る
@@ -1650,7 +2181,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-60: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+60: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - -
+  dislikes:
+    -
+      お世辞やゴマすり、おだてられること
+    -
+      筋が通らないこと
+    -
+      言い方や口のきき方が悪いこと
+    -
+      納得していないのに、無理に進められること
   behavior_patterns:
     -
       意思決定までに時間をかける
