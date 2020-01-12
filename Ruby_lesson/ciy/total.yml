@@ -1,4 +1,5 @@
-1 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+1:
+  name: 森の冒険者
   image_names:
     color: green
     job: boukensya
@@ -77,7 +78,8 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-2 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+2:
+  name: 草原の賢者
   image_names:
     color: yellowgreen
     job: kenja
@@ -156,7 +158,8 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-3 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+3:
+  name: 炎のハンター
   image_names:
     color: red
     job: hunter
@@ -235,7 +238,8 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-4 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+4:
+  name: 光の吟遊詩人
   image_names:
     color: gold
     job: ginyuushijin
@@ -314,7 +318,8 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-5 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+5:
+  name: 風の竜騎士
   image_names:
     color: pink
     job: ryuukishi
@@ -393,7 +398,8 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-6 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+6:
+  name: 大地の皇帝
   image_names:
     color: brown
     job: koutei
@@ -472,7 +478,8 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-7 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+7:
+  name: 雪の冒険者
   image_names:
     color: silver
     job: boukensya
@@ -551,7 +558,8 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-8 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+8:
+  name: 星の賢者
   image_names:
     color: purple
     job: kenja
@@ -630,7 +638,8 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-9 : aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+9:
+  name: 天空のハンター
   image_names:
     color: skyblue
     job: hunter
@@ -709,7 +718,8 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-10: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+10:
+  name: 霧の吟遊詩人
   image_names:
     color: blue
     job: ginyuushijin
@@ -788,7 +798,8 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-11: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+11:
+  name: 森の魔法使い
   image_names:
     color: green
     job: mahotsukai
@@ -867,7 +878,8 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-12: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+12:
+  name: 草原の革命家
   image_names:
     color: yellowgreen
     job: kakumeika
@@ -946,7 +958,8 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-13: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+13:
+  name: 炎の錬金術師
   image_names:
     color: red
     job: renkinjutsushi
@@ -1025,7 +1038,8 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-14: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+14:
+  name: 光の預言者
   image_names:
     color: gold
     job: yogensya
@@ -1104,7 +1118,8 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-15: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+15:
+  name: 風のハンター
   image_names:
     color: pink
     job: hunter
@@ -1183,7 +1198,8 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-16: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+16:
+  name: 大地の吟遊詩人
   image_names:
     color: brown
     job: ginyuushijin
@@ -1262,7 +1278,8 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-17: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+17:
+  name: 雪の魔法使い
   image_names:
     color: silver
     job: mahotsukai
@@ -1341,7 +1358,8 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-18: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+18:
+  name: 星の革命家
   image_names:
     color: purple
     job: kakumeika
@@ -1420,7 +1438,8 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-19: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+19:
+  name: 天空の錬金術師
   image_names:
     color: skyblue
     job: renkinjutsushi
@@ -1499,7 +1518,8 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-20: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+20:
+  name: 霧の預言者
   image_names:
     color: blue
     job: yogensya
@@ -1578,7 +1598,8 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-21: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+21:
+  name: 森の召喚士
   image_names:
     color: green
     job: syoukanshi
@@ -1657,7 +1678,8 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-22: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+22:
+  name: 草原の召喚士
   image_names:
     color: yellowgreen
     job: syoukanshi
@@ -1736,7 +1758,8 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-23: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+23:
+  name: 炎の預言者
   image_names:
     color: red
     job: yogensya
@@ -1815,7 +1838,8 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-24: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+24:
+  name: 光の錬金術師
   image_names:
     color: gold
     job: renkinjutsushi
@@ -1894,7 +1918,8 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-25: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+25:
+  name: 風の錬金術師
   image_names:
     color: pink
     job: renkinjutsushi
@@ -1973,7 +1998,8 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-26: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+26:
+  name: 大地の預言者
   image_names:
     color: brown
     job: yogensya
@@ -2052,7 +2078,8 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-27: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+27:
+  name: 雪の召喚士
   image_names:
     color: silver
     job: syoukanshi
@@ -2131,7 +2158,8 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-28: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+28:
+  name: 星の召喚士
   image_names:
     color: purple
     job: syoukanshi
@@ -2210,7 +2238,8 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-29: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+29:
+  name: 天空の預言者
   image_names:
     color: skyblue
     job: yogensya
@@ -2289,7 +2318,8 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-30: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+30:
+  name: 霧の錬金術師
   image_names:
     color: blue
     job: renkinjutsushi
@@ -2368,7 +2398,8 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-31: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+31:
+  name: 森の革命家
   image_names:
     color: green
     job: kakumeika
@@ -2447,7 +2478,8 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-32: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+32:
+  name: 草原の魔法使い
   image_names:
     color: yellowgreen
     job: mahotsukai
@@ -2526,7 +2558,8 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-33: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+33:
+  name: 炎の吟遊詩人
   image_names:
     color: red
     job: ginyuushijin
@@ -2605,7 +2638,8 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-34: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+34:
+  name: 光のハンター
   image_names:
     color: gold
     job: hunter
@@ -2684,7 +2718,8 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-35: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+35:
+  name: 風の預言者
   image_names:
     color: pink
     job: yogensya
@@ -2763,7 +2798,8 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-36: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+36:
+  name: 大地の錬金術師
   image_names:
     color: brown
     job: renkinjutsushi
@@ -2842,7 +2878,8 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-37: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+37:
+  name: 雪の革命家
   image_names:
     color: silver
     job: kakumeika
@@ -2921,7 +2958,8 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-38: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+38:
+  name: 星の魔法使い
   image_names:
     color: purple
     job: mahotsukai
@@ -3000,7 +3038,8 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-39: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+39:
+  name: 天空の吟遊詩人
   image_names:
     color: skyblue
     job: ginyuushijin
@@ -3079,7 +3118,8 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-40: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+40:
+  name: 霧のハンター
   image_names:
     color: blue
     job: hunter
@@ -3158,7 +3198,8 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-41: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+41:
+  name: 森の賢者
   image_names:
     color: green
     job: kenja
@@ -3237,7 +3278,8 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-42: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+42:
+  name: 草原の冒険者
   image_names:
     color: yellowgreen
     job: boukensya
@@ -3316,7 +3358,8 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-43: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+43:
+  name: 炎の皇帝
   image_names:
     color: red
     job: koutei
@@ -3395,7 +3438,8 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-44: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+44:
+  name: 光の竜騎士
   image_names:
     color: gold
     job: ryuukishi
@@ -3474,7 +3518,8 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-45: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+45:
+  name: 風の吟遊詩人
   image_names:
     color: pink
     job: ginyuushijin
@@ -3553,7 +3598,8 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-46: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+46:
+  name: 大地のハンター
   image_names:
     color: brown
     job: hunter
@@ -3632,7 +3678,8 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-47: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+47:
+  name: 雪の賢者
   image_names:
     color: silver
     job: kenja
@@ -3711,7 +3758,8 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-48: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+48:
+  name: 星の冒険者
   image_names:
     color: purple
     job: boukensya
@@ -3790,7 +3838,8 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-49: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+49:
+  name: 天空の皇帝
   image_names:
     color: skyblue
     job: koutei
@@ -3869,7 +3918,8 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-50: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+50:
+  name: 霧の竜騎士
   image_names:
     color: blue
     job: ryuukishi
@@ -3948,7 +3998,8 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-51: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+51:
+  name: 森の勇者
   image_names:
     color: green
     job: yuusya
@@ -4027,7 +4078,8 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-52: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+52:
+  name: 草原の勇者
   image_names:
     color: yellowgreen
     job: yuusya
@@ -4106,7 +4158,8 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-53: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+53:
+  name: 炎の竜騎士
   image_names:
     color: red
     job: ryuukishi
@@ -4185,7 +4238,8 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-54: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+54:
+  name: 光の皇帝
   image_names:
     color: gold
     job: koutei
@@ -4264,7 +4318,8 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-55: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+55:
+  name: 風の皇帝
   image_names:
     color: pink
     job: koutei
@@ -4343,7 +4398,8 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-56: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+56:
+  name: 大地の竜騎士
   image_names:
     color: brown
     job: ryuukishi
@@ -4422,7 +4478,8 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-57: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+57:
+  name: 雪の勇者
   image_names:
     color: silver
     job: yuusya
@@ -4501,7 +4558,8 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-58: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+58:
+  name: 星の勇者
   image_names:
     color: purple
     job: yuusya
@@ -4580,7 +4638,8 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-59: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+59:
+  name: 天空の竜騎士
   image_names:
     color: skyblue
     job: ryuukishi
@@ -4659,7 +4718,8 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-60: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa name:
+60:
+  name: 霧の皇帝
   image_names:
     color: blue
     job: koutei
