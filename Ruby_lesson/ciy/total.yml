@@ -1,4 +1,13 @@
-1 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+1 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      行動的でスピーディーだが、長続きしない
+    -
+      動けるときと動けないときの差が大きい
+    -
+      プライドが高く、負けず嫌い
+    -
+      はっきり言いすぎて、人の反感をかうことがある
   patterns_rising_motivation:
     -
       新しいことにチャレンジできる
@@ -17,7 +26,16 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-2 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+2 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      社交的だが、初対面ではおとなしい印象
+    -
+      人や物に対して、本物かどうか見抜く力が高い
+    -
+      周りが無理と思うことも、体を張ってやり遂げる
+    -
+      頼られると嬉しいので、断るのが苦手
   patterns_rising_motivation:
     -
       自分の実績や経験が評価される
@@ -36,7 +54,16 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-3 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+3 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      どんなことでもゲーム感覚で楽しむ
+    -
+      話す時に相手の目を見て話す
+    -
+      頭の回転が早く、理論的に考える
+    -
+      自信がある分野では目立ちたいが、ない分野では目立ちたくない
   patterns_rising_motivation:
     -
       勝負を挑まれたり、ライバルがいる
@@ -55,14 +82,23 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-4 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+4 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      一人で過ごすプライベートな時間を大事にする
+    -
+      用心深く、最悪のケースを考えて行動する
+    -
+      サービス精神旺盛で、盛り上げ役になれる
+    -
+      自分の生活を律するのが得意で、健康管理などに気を使う
   patterns_rising_motivation:
     -
       短期的に結果が出ていなくても、いつかは成功すると思える
     -
       定期的にゆっくり過ごせたり、ストレスを発散でき
     -
-      "「心配ないよ」「大丈夫だよ」など、気にかけてもらえる"
+      「心配ないよ」「大丈夫だよ」など、気にかけてもらえる
     -
       確実に近づける夢やロマンを持ち続けられる
   environments:
@@ -74,7 +110,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-5 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+5 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      形から入る
+    -
+      トレンドや最新情報に敏感
+    -
+      メンツや世間体を気にする
+    -
+      あがり症で本番に弱い
   patterns_rising_motivation:
     -
       時代を先取りして行動できる
@@ -93,7 +138,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-6 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+6 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      意思決定までに時間をかける
+    -
+      マイペースで自分に自信があり、悠然とした印象
+    -
+      不平等やえこひいきは正して、平等にしたい
+    -
+      いつでも正論を言う
   patterns_rising_motivation:
     -
       結果をきちんと評価される（実力主義）
@@ -112,7 +166,16 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-7 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+7 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      行動的でスピーディーだが、長続きしない
+    -
+      動けるときと動けないときの差が大きい
+    -
+      プライドが高く、負けず嫌い
+    -
+      はっきり言いすぎて、人の反感をかうことがある
   patterns_rising_motivation:
     -
       新しいことにチャレンジできる
@@ -131,7 +194,16 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-8 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+8 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      社交的だが、初対面ではおとなしい印象
+    -
+      人や物に対して、本物かどうか見抜く力が高い
+    -
+      周りが無理と思うことも、体を張ってやり遂げる
+    -
+      頼られると嬉しいので、断るのが苦手
   patterns_rising_motivation:
     -
       自分の実績や経験が評価される
@@ -150,7 +222,16 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-9 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+9 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      どんなことでもゲーム感覚で楽しむ
+    -
+      話す時に相手の目を見て話す
+    -
+      頭の回転が早く、理論的に考える
+    -
+      自信がある分野では目立ちたいが、ない分野では目立ちたくない
   patterns_rising_motivation:
     -
       勝負を挑まれたり、ライバルがいる
@@ -169,14 +250,23 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-10: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+10: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      一人で過ごすプライベートな時間を大事にする
+    -
+      用心深く、最悪のケースを考えて行動する
+    -
+      サービス精神旺盛で、盛り上げ役になれる
+    -
+      自分の生活を律するのが得意で、健康管理などに気を使う
   patterns_rising_motivation:
     -
       短期的に結果が出ていなくても、いつかは成功すると思える
     -
       定期的にゆっくり過ごせたり、ストレスを発散でき
     -
-      "「心配ないよ」「大丈夫だよ」など、気にかけてもらえる"
+      「心配ないよ」「大丈夫だよ」など、気にかけてもらえる
     -
       確実に近づける夢やロマンを持ち続けられる
   environments:
@@ -188,7 +278,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-11: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+11: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      人見知りが激しく初対面では警戒しているが、ニコニコはできる
+    -
+      親しくなると大胆になる
+    -
+      データなどの裏づけが大切で、理屈っぽい面がある
+    -
+      性善説で人に騙されやすい
   patterns_rising_motivation:
     -
       親しい人間関係の中で、ありのままでいられる
@@ -207,7 +306,16 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-12: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+12: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      思い立ったら、すぐ行動する
+    -
+      今日できることは今日のうちに終わらせておきたい
+    -
+      プロ意識が強く、妥協しない
+    -
+      不安を感じがちで、アクシデントやトラブルに弱い
   patterns_rising_motivation:
     -
       自分のやりたいようにやらせてもらえる
@@ -226,7 +334,16 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-13: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+13: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      無愛想で、とっつきにくい印象がある
+    -
+      じっくり考えて決め、一度決めたら最後までやり通したい
+    -
+      周りの意見に左右されず、自分のやり方で進める
+    -
+      よくメモする
   patterns_rising_motivation:
     -
       アイデアが認められるだけでなく、最後まで形にさせてもらえる
@@ -245,7 +362,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-14: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+14: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      客観的に考えて、はっきり口に出す
+    -
+      人脈を広げるのが好きだが、人とは一定の距離を保つ
+    -
+      和気あいあいでいたいので、衝突を避ける
+    -
+      ネガティブな予測をしがち
   patterns_rising_motivation:
     -
       信頼される
@@ -264,7 +390,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-15: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+15: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      どんなことでもゲーム感覚で楽しむ
+    -
+      話す時に相手の目を見て話す
+    -
+      頭の回転が早く、理論的に考える
+    -
+      自信がある分野では目立ちたいが、ない分野では目立ちたくない
   patterns_rising_motivation:
     -
       勝負を挑まれたり、ライバルがいる
@@ -283,14 +418,23 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-16: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+16: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      一人で過ごすプライベートな時間を大事にする
+    -
+      用心深く、最悪のケースを考えて行動する
+    -
+      サービス精神旺盛で、盛り上げ役になれる
+    -
+      自分の生活を律するのが得意で、健康管理などに気を使う
   patterns_rising_motivation:
     -
       短期的に結果が出ていなくても、いつかは成功すると思える
     -
       定期的にゆっくり過ごせたり、ストレスを発散でき
     -
-      "「心配ないよ」「大丈夫だよ」など、気にかけてもらえる"
+      「心配ないよ」「大丈夫だよ」など、気にかけてもらえる
     -
       確実に近づける夢やロマンを持ち続けられる
   environments:
@@ -302,7 +446,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-17: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+17: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      人見知りが激しく初対面では警戒しているが、ニコニコはできる
+    -
+      親しくなると大胆になる
+    -
+      データなどの裏づけが大切で、理屈っぽい面がある
+    -
+      性善説で人に騙されやすい
   patterns_rising_motivation:
     -
       親しい人間関係の中で、ありのままでいられる
@@ -321,7 +474,16 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-18: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+18: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      思い立ったら、すぐ行動する
+    -
+      今日できることは今日のうちに終わらせておきたい
+    -
+      プロ意識が強く、妥協しない
+    -
+      不安を感じがちで、アクシデントやトラブルに弱い
   patterns_rising_motivation:
     -
       自分のやりたいようにやらせてもらえる
@@ -340,7 +502,16 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-19: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+19: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      無愛想で、とっつきにくい印象がある
+    -
+      じっくり考えて決め、一度決めたら最後までやり通したい
+    -
+      周りの意見に左右されず、自分のやり方で進める
+    -
+      よくメモする
   patterns_rising_motivation:
     -
       アイデアが認められるだけでなく、最後まで形にさせてもらえる
@@ -359,7 +530,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-20: name: image_names: color: job: element: catch_copy: comments: - - feature: keyworss: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+20: name: image_names: color: job: element: catch_copy: comments: - - feature: keyworss: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      客観的に考えて、はっきり口に出す
+    -
+      人脈を広げるのが好きだが、人とは一定の距離を保つ
+    -
+      和気あいあいでいたいので、衝突を避ける
+    -
+      ネガティブな予測をしがち
   patterns_rising_motivation:
     -
       信頼される
@@ -378,7 +558,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-21: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+21: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      石橋を飛び越えて行動するような超行動派
+    -
+      ほめられると伸びる
+    -
+      雰囲気やムードに弱い
+    -
+      計画はザックリ、行き当たりばったりでも何とかできる
   patterns_rising_motivation:
     -
       指示や束縛がなく、自由にさせてもらえる
@@ -397,7 +586,16 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-22: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+22: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      石橋を飛び越えて行動するような超行動派
+    -
+      ほめられると伸びる
+    -
+      雰囲気やムードに弱い
+    -
+      計画はザックリ、行き当たりばったりでも何とかできる
   patterns_rising_motivation:
     -
       指示や束縛がなく、自由にさせてもらえる
@@ -416,7 +614,16 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-23: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+23: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      客観的に考えて、はっきり口に出す
+    -
+      人脈を広げるのが好きだが、人とは一定の距離を保つ
+    -
+      和気あいあいでいたいので、衝突を避ける
+    -
+      ネガティブな予測をしがち
   patterns_rising_motivation:
     -
       信頼される
@@ -435,7 +642,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-24: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+24: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      無愛想で、とっつきにくい印象がある
+    -
+      じっくり考えて決め、一度決めたら最後までやり通したい
+    -
+      周りの意見に左右されず、自分のやり方で進める
+    -
+      よくメモする
   patterns_rising_motivation:
     -
       アイデアが認められるだけでなく、最後まで形にさせてもらえる
@@ -454,7 +670,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-25: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+25: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      無愛想で、とっつきにくい印象がある
+    -
+      じっくり考えて決め、一度決めたら最後までやり通したい
+    -
+      周りの意見に左右されず、自分のやり方で進める
+    -
+      よくメモする
   patterns_rising_motivation:
     -
       アイデアが認められるだけでなく、最後まで形にさせてもらえる
@@ -473,7 +698,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-26: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+26: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      客観的に考えて、はっきり口に出す
+    -
+      人脈を広げるのが好きだが、人とは一定の距離を保つ
+    -
+      和気あいあいでいたいので、衝突を避ける
+    -
+      ネガティブな予測をしがち
   patterns_rising_motivation:
     -
       信頼される
@@ -492,7 +726,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-27: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+27: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      石橋を飛び越えて行動するような超行動派
+    -
+      ほめられると伸びる
+    -
+      雰囲気やムードに弱い
+    -
+      計画はザックリ、行き当たりばったりでも何とかできる
   patterns_rising_motivation:
     -
       指示や束縛がなく、自由にさせてもらえる
@@ -511,7 +754,16 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-28: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+28: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      石橋を飛び越えて行動するような超行動派
+    -
+      ほめられると伸びる
+    -
+      雰囲気やムードに弱い
+    -
+      計画はザックリ、行き当たりばったりでも何とかできる
   patterns_rising_motivation:
     -
       指示や束縛がなく、自由にさせてもらえる
@@ -530,7 +782,16 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-29: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+29: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      客観的に考えて、はっきり口に出す
+    -
+      人脈を広げるのが好きだが、人とは一定の距離を保つ
+    -
+      和気あいあいでいたいので、衝突を避ける
+    -
+      ネガティブな予測をしがち
   patterns_rising_motivation:
     -
       信頼される
@@ -549,7 +810,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-30: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+30: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      無愛想で、とっつきにくい印象がある
+    -
+      じっくり考えて決め、一度決めたら最後までやり通したい
+    -
+      周りの意見に左右されず、自分のやり方で進める
+    -
+      よくメモする
   patterns_rising_motivation:
     -
       アイデアが認められるだけでなく、最後まで形にさせてもらえる
@@ -568,7 +838,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-31: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+31: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      思い立ったら、すぐ行動する
+    -
+      今日できることは今日のうちに終わらせておきたい
+    -
+      プロ意識が強く、妥協しない
+    -
+      不安を感じがちで、アクシデントやトラブルに弱い
   patterns_rising_motivation:
     -
       自分のやりたいようにやらせてもらえる
@@ -587,7 +866,16 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-32: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+32: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      人見知りが激しく初対面では警戒しているが、ニコニコはできる
+    -
+      親しくなると大胆になる
+    -
+      データなどの裏づけが大切で、理屈っぽい面がある
+    -
+      性善説で人に騙されやすい
   patterns_rising_motivation:
     -
       親しい人間関係の中で、ありのままでいられる
@@ -606,14 +894,23 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-33: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+33: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      一人で過ごすプライベートな時間を大事にする
+    -
+      用心深く、最悪のケースを考えて行動する
+    -
+      サービス精神旺盛で、盛り上げ役になれる
+    -
+      自分の生活を律するのが得意で、健康管理などに気を使う
   patterns_rising_motivation:
     -
       短期的に結果が出ていなくても、いつかは成功すると思える
     -
       定期的にゆっくり過ごせたり、ストレスを発散でき
     -
-      "「心配ないよ」「大丈夫だよ」など、気にかけてもらえる"
+      「心配ないよ」「大丈夫だよ」など、気にかけてもらえる
     -
       確実に近づける夢やロマンを持ち続けられる
   environments:
@@ -625,7 +922,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-34: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+34: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      どんなことでもゲーム感覚で楽しむ
+    -
+      話す時に相手の目を見て話す
+    -
+      頭の回転が早く、理論的に考える
+    -
+      自信がある分野では目立ちたいが、ない分野では目立ちたくない
   patterns_rising_motivation:
     -
       勝負を挑まれたり、ライバルがいる
@@ -644,7 +950,16 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-35: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+35: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      客観的に考えて、はっきり口に出す
+    -
+      人脈を広げるのが好きだが、人とは一定の距離を保つ
+    -
+      和気あいあいでいたいので、衝突を避ける
+    -
+      ネガティブな予測をしがち
   patterns_rising_motivation:
     -
       信頼される
@@ -663,7 +978,16 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-36: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+36: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      無愛想で、とっつきにくい印象がある
+    -
+      じっくり考えて決め、一度決めたら最後までやり通したい
+    -
+      周りの意見に左右されず、自分のやり方で進める
+    -
+      よくメモする
   patterns_rising_motivation:
     -
       アイデアが認められるだけでなく、最後まで形にさせてもらえる
@@ -682,7 +1006,16 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-37: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+37: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      思い立ったら、すぐ行動する
+    -
+      今日できることは今日のうちに終わらせておきたい
+    -
+      プロ意識が強く、妥協しない
+    -
+      不安を感じがちで、アクシデントやトラブルに弱い
   patterns_rising_motivation:
     -
       自分のやりたいようにやらせてもらえる
@@ -701,7 +1034,16 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-38: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+38: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      人見知りが激しく初対面では警戒しているが、ニコニコはできる
+    -
+      親しくなると大胆になる
+    -
+      データなどの裏づけが大切で、理屈っぽい面がある
+    -
+      性善説で人に騙されやすい
   patterns_rising_motivation:
     -
       親しい人間関係の中で、ありのままでいられる
@@ -720,14 +1062,23 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-39: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+39: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      一人で過ごすプライベートな時間を大事にする
+    -
+      用心深く、最悪のケースを考えて行動する
+    -
+      サービス精神旺盛で、盛り上げ役になれる
+    -
+      自分の生活を律するのが得意で、健康管理などに気を使う
   patterns_rising_motivation:
     -
       短期的に結果が出ていなくても、いつかは成功すると思える
     -
       定期的にゆっくり過ごせたり、ストレスを発散でき
     -
-      "「心配ないよ」「大丈夫だよ」など、気にかけてもらえる"
+      「心配ないよ」「大丈夫だよ」など、気にかけてもらえる
     -
       確実に近づける夢やロマンを持ち続けられる
   environments:
@@ -739,7 +1090,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-40: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+40: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      どんなことでもゲーム感覚で楽しむ
+    -
+      話す時に相手の目を見て話す
+    -
+      頭の回転が早く、理論的に考える
+    -
+      自信がある分野では目立ちたいが、ない分野では目立ちたくない
   patterns_rising_motivation:
     -
       勝負を挑まれたり、ライバルがいる
@@ -758,7 +1118,16 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-41: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+41: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      社交的だが、初対面ではおとなしい印象
+    -
+      人や物に対して、本物かどうか見抜く力が高い
+    -
+      周りが無理と思うことも、体を張ってやり遂げる
+    -
+      頼られると嬉しいので、断るのが苦手
   patterns_rising_motivation:
     -
       自分の実績や経験が評価される
@@ -777,7 +1146,16 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-42: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+42: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      行動的でスピーディーだが、長続きしない
+    -
+      動けるときと動けないときの差が大きい
+    -
+      プライドが高く、負けず嫌い
+    -
+      はっきり言いすぎて、人の反感をかうことがある
   patterns_rising_motivation:
     -
       新しいことにチャレンジできる
@@ -796,7 +1174,16 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-43: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+43: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      意思決定までに時間をかける
+    -
+      マイペースで自分に自信があり、悠然とした印象
+    -
+      不平等やえこひいきは正して、平等にしたい
+    -
+      いつでも正論を言う
   patterns_rising_motivation:
     -
       結果をきちんと評価される（実力主義）
@@ -815,7 +1202,16 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-44: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+44: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      形から入る
+    -
+      トレンドや最新情報に敏感
+    -
+      メンツや世間体を気にする
+    -
+      あがり症で本番に弱い
   patterns_rising_motivation:
     -
       時代を先取りして行動できる
@@ -834,14 +1230,23 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-45: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+45: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      一人で過ごすプライベートな時間を大事にする
+    -
+      用心深く、最悪のケースを考えて行動する
+    -
+      サービス精神旺盛で、盛り上げ役になれる
+    -
+      自分の生活を律するのが得意で、健康管理などに気を使う
   patterns_rising_motivation:
     -
       短期的に結果が出ていなくても、いつかは成功すると思える
     -
       定期的にゆっくり過ごせたり、ストレスを発散でき
     -
-      "「心配ないよ」「大丈夫だよ」など、気にかけてもらえる"
+      「心配ないよ」「大丈夫だよ」など、気にかけてもらえる
     -
       確実に近づける夢やロマンを持ち続けられる
   environments:
@@ -853,7 +1258,16 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-46: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+46: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      どんなことでもゲーム感覚で楽しむ
+    -
+      話す時に相手の目を見て話す
+    -
+      頭の回転が早く、理論的に考える
+    -
+      自信がある分野では目立ちたいが、ない分野では目立ちたくない
   patterns_rising_motivation:
     -
       勝負を挑まれたり、ライバルがいる
@@ -872,7 +1286,16 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-47: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+47: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      社交的だが、初対面ではおとなしい印象
+    -
+      人や物に対して、本物かどうか見抜く力が高い
+    -
+      周りが無理と思うことも、体を張ってやり遂げる
+    -
+      頼られると嬉しいので、断るのが苦手
   patterns_rising_motivation:
     -
       自分の実績や経験が評価される
@@ -891,7 +1314,16 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-48: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+48: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      行動的でスピーディーだが、長続きしない
+    -
+      動けるときと動けないときの差が大きい
+    -
+      プライドが高く、負けず嫌い
+    -
+      はっきり言いすぎて、人の反感をかうことがある
   patterns_rising_motivation:
     -
       新しいことにチャレンジできる
@@ -910,7 +1342,16 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-49: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+49: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      意思決定までに時間をかける
+    -
+      マイペースで自分に自信があり、悠然とした印象
+    -
+      不平等やえこひいきは正して、平等にしたい
+    -
+      いつでも正論を言う
   patterns_rising_motivation:
     -
       結果をきちんと評価される（実力主義）
@@ -929,7 +1370,16 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-50: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+50: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      形から入る
+    -
+      トレンドや最新情報に敏感
+    -
+      メンツや世間体を気にする
+    -
+      あがり症で本番に弱い
   patterns_rising_motivation:
     -
       時代を先取りして行動できる
@@ -948,7 +1398,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-51: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+51: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      完璧主義者で、細かいことに気がつく
+    -
+      謙遜したり遠慮したりして、思っていることの1/3ぐらいしか言わない
+    -
+      人前ではしっかりしているが、親しい人には甘える
+    -
+      専門家（権威）に弱い
   patterns_rising_motivation:
     -
       褒められる（褒め言葉に弱い）
@@ -967,7 +1426,16 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-52: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+52: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      完璧主義者で、細かいことに気がつく
+    -
+      謙遜したり遠慮したりして、思っていることの1/3ぐらいしか言わない
+    -
+      人前ではしっかりしているが、親しい人には甘える
+    -
+      専門家（権威）に弱い
   patterns_rising_motivation:
     -
       褒められる（褒め言葉に弱い）
@@ -986,7 +1454,16 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-53: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+53: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      形から入る
+    -
+      トレンドや最新情報に敏感
+    -
+      メンツや世間体を気にする
+    -
+      あがり症で本番に弱い
   patterns_rising_motivation:
     -
       時代を先取りして行動できる
@@ -1005,7 +1482,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-54: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+54: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      意思決定までに時間をかける
+    -
+      マイペースで自分に自信があり、悠然とした印象
+    -
+      不平等やえこひいきは正して、平等にしたい
+    -
+      いつでも正論を言う
   patterns_rising_motivation:
     -
       結果をきちんと評価される（実力主義）
@@ -1024,7 +1510,16 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-55: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+55: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      意思決定までに時間をかける
+    -
+      マイペースで自分に自信があり、悠然とした印象
+    -
+      不平等やえこひいきは正して、平等にしたい
+    -
+      いつでも正論を言う
   patterns_rising_motivation:
     -
       結果をきちんと評価される（実力主義）
@@ -1043,7 +1538,16 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-56: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+56: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      形から入る
+    -
+      トレンドや最新情報に敏感
+    -
+      メンツや世間体を気にする
+    -
+      あがり症で本番に弱い
   patterns_rising_motivation:
     -
       時代を先取りして行動できる
@@ -1062,7 +1566,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-57: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+57: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      完璧主義者で、細かいことに気がつく
+    -
+      謙遜したり遠慮したりして、思っていることの1/3ぐらいしか言わない
+    -
+      人前ではしっかりしているが、親しい人には甘える
+    -
+      専門家（権威）に弱い
   patterns_rising_motivation:
     -
       褒められる（褒め言葉に弱い）
@@ -1081,7 +1594,16 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-58: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+58: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      完璧主義者で、細かいことに気がつく
+    -
+      謙遜したり遠慮したりして、思っていることの1/3ぐらいしか言わない
+    -
+      人前ではしっかりしているが、親しい人には甘える
+    -
+      専門家（権威）に弱い
   patterns_rising_motivation:
     -
       褒められる（褒め言葉に弱い）
@@ -1100,7 +1622,16 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-59: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+59: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      形から入る
+    -
+      トレンドや最新情報に敏感
+    -
+      メンツや世間体を気にする
+    -
+      あがり症で本番に弱い
   patterns_rising_motivation:
     -
       時代を先取りして行動できる
@@ -1119,7 +1650,16 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-60: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - - behavior_patterns: - - - -
+60: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - - likes: - - - - dislikes: - - - -
+  behavior_patterns:
+    -
+      意思決定までに時間をかける
+    -
+      マイペースで自分に自信があり、悠然とした印象
+    -
+      不平等やえこひいきは正して、平等にしたい
+    -
+      いつでも正論を言う
   patterns_rising_motivation:
     -
       結果をきちんと評価される（実力主義）
