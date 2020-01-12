@@ -1,4 +1,25 @@
-1 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+1 : name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      好奇心旺盛
+    -
+      チャレンジ精神
+    -
+      向上心
+    -
+      夢を追い続ける
+    -
+      華やか
+    -
+      異性を引きつける
+    -
+      白黒つけたい
+    -
+      過去を引きずらない
+    -
+      引き立てられ役
+    -
+      即決即断
   likes:
     -
       みんなが無理と思っていることにチャレンジできること
@@ -44,7 +65,28 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-2 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+2 : name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      穏やか
+    -
+      愛嬌がある
+    -
+      空気を読む
+    -
+      大器晩成型
+    -
+      警戒心強め
+    -
+      ちょっと優柔不断
+    -
+      温かな人柄
+    -
+      控えめな印象
+    -
+      かまって欲しい
+    -
+      実績と伝統に弱い
   likes:
     -
       実績や経験を積んで、腕を磨くこと
@@ -90,7 +132,28 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-3 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+3 : name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      世話好き
+    -
+      親切
+    -
+      ポジティブ精神
+    -
+      要領がいい
+    -
+      損得を気にする
+    -
+      潔い
+    -
+      自立心
+    -
+      集中力抜群
+    -
+      勝負強い
+    -
+      顔にでやすい
   likes:
     -
       自信のある分野で注目されること
@@ -136,7 +199,28 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-4 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+4 : name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      意志が強い
+    -
+      自信家
+    -
+      清々しい
+    -
+      マイワールド
+    -
+      オタク気質
+    -
+      人を見る目がある
+    -
+      疑い深い
+    -
+      真面目
+    -
+      神経質
+    -
+      頭がいい
   likes:
     -
       長期的に夢を叶えること
@@ -182,7 +266,28 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-5 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+5 : name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      独自のセンス
+    -
+      自分らしさ
+    -
+      変わり者
+    -
+      楽天的
+    -
+      のびのびとした性格
+    -
+      強い意志
+    -
+      プライドが高い
+    -
+      見栄っ張り
+    -
+      正義感が強い
+    -
+      1人で行動できる
   likes:
     -
       新しいものや最先端の話題
@@ -228,7 +333,28 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-6 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+6 : name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      博愛主義
+    -
+      温厚
+    -
+      コミュニケーション力
+    -
+      頼りになる
+    -
+      真面目
+    -
+      平等主義
+    -
+      理屈っぽい
+    -
+      タフ
+    -
+      職人気質
+    -
+      認められたい
   likes:
     -
       全体像をつかんで、バランスを取ること
@@ -274,7 +400,28 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-7 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+7 : name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      自由人
+    -
+      品がある
+    -
+      発想力
+    -
+      独創性
+    -
+      スキが無い
+    -
+      正義感が強い
+    -
+      神経質
+    -
+      頑固
+    -
+      努力家
+    -
+      超プラス思考
   likes:
     -
       みんなが無理と思っていることにチャレンジできること
@@ -320,7 +467,28 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-8 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+8 : name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      愛想が良い
+    -
+      可愛がられる
+    -
+      努力家
+    -
+      粘り強い
+    -
+      人を見る目が鋭い
+    -
+      伝統や秩序を大切にする
+    -
+      整理整頓や掃除が苦手
+    -
+      アウトドア派
+    -
+      平和主義
+    -
+      上下関係に厳しい
   likes:
     -
       実績や経験を積んで、腕を磨くこと
@@ -366,7 +534,28 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-9 : name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+9 : name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      好奇心旺盛
+    -
+      何でも全力
+    -
+      無邪気
+    -
+      アイデアマン
+    -
+      チャーミング
+    -
+      気さくな人柄
+    -
+      サービス精神旺盛
+    -
+      思いやり
+    -
+      精神的孤独
+    -
+      人目を気にする
   likes:
     -
       自信のある分野で注目されること
@@ -412,7 +601,28 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-10: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+10: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      要領がいい
+    -
+      世話好き
+    -
+      癒し系
+    -
+      感性豊か
+    -
+      分かりやすい
+    -
+      プライドが高い
+    -
+      二面性
+    -
+      能率主義
+    -
+      テキパキしている
+    -
+      信頼感
   likes:
     -
       長期的に夢を叶えること
@@ -458,7 +668,28 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-11: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+11: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      飾り気がない
+    -
+      甘え上手
+    -
+      正直者
+    -
+      素直
+    -
+      人見知り
+    -
+      仲間意識
+    -
+      ありがとう
+    -
+      かけひきが嫌い
+    -
+      おおらか
+    -
+      面倒見がいい
   likes:
     -
       ありのままの自分でいられること
@@ -504,7 +735,28 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-12: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+12: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      冷静沈着
+    -
+      誠実
+    -
+      依存しない
+    -
+      妥協しない
+    -
+      完璧主義者
+    -
+      仕事人
+    -
+      潔い
+    -
+      積極的
+    -
+      探究心
+    -
+      頑固
   likes:
     -
       サプライズやイベントの企画
@@ -550,7 +802,28 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-13: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+13: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      センスがある
+    -
+      自由な発想
+    -
+      媚びない
+    -
+      さっぱりしている
+    -
+      明るい
+    -
+      素直
+    -
+      平和主義
+    -
+      個性が強い
+    -
+      1人の時間が好き
+    -
+      直球ストレートな性格
   likes:
     -
       独創的なアイデアやオリジナリティ
@@ -596,7 +869,28 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-14: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+14: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      平均的を好む
+    -
+      マイペース
+    -
+      穏やか
+    -
+      判断力
+    -
+      探究心
+    -
+      常識人
+    -
+      好き嫌いはっきり
+    -
+      協調性に欠ける
+    -
+      堅実
+    -
+      芸術的
   likes:
     -
       大切な人に頼られたり相談されること
@@ -642,7 +936,28 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-15: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+15: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      鋭いカン
+    -
+      器用
+    -
+      能率主義
+    -
+      勝ち気
+    -
+      クール
+    -
+      野心家
+    -
+      情熱家
+    -
+      妥協しない
+    -
+      調和が大切
+    -
+      立ち直りが早い
   likes:
     -
       自信のある分野で注目されること
@@ -688,7 +1003,28 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-16: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+16: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      正直者
+    -
+      自然体
+    -
+      明るい
+    -
+      ポジティブ
+    -
+      好き嫌いが激しい
+    -
+      縁の下の力持ち
+    -
+      未来志向
+    -
+      ややビビリ
+    -
+      堅実
+    -
+      器用
   likes:
     -
       長期的に夢を叶えること
@@ -734,7 +1070,28 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-17: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+17: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      落ち着いた雰囲気
+    -
+      優しい
+    -
+      内に秘めた信念
+    -
+      現状維持
+    -
+      堅実で保守的
+    -
+      真面目
+    -
+      上下関係や礼儀を大切にする
+    -
+      他人の目を気にする
+    -
+      遠慮がち
+    -
+      お笑い担当
   likes:
     -
       ありのままの自分でいられること
@@ -780,7 +1137,28 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-18: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+18: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      真面目
+    -
+      冷静沈着
+    -
+      クール
+    -
+      気品がある
+    -
+      影の努力家
+    -
+      能率主義
+    -
+      根性
+    -
+      信念
+    -
+      気が強い
+    -
+      プライドが高い
   likes:
     -
       サプライズやイベントの企画
@@ -826,7 +1204,28 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-19: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+19: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      独創性
+    -
+      センスがある
+    -
+      行動力
+    -
+      常識にとらわれない
+    -
+      向上心
+    -
+      器用
+    -
+      マイペース
+    -
+      飽き性
+    -
+      集団行動が苦手
+    -
+      チャレンジャー
   likes:
     -
       独創的なアイデアやオリジナリティ
@@ -872,7 +1271,28 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-20: name: image_names: color: job: element: catch_copy: comments: - - feature: keyworss: - - - - - - - - - -
+20: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keyworss:
+    -
+      手堅い
+    -
+      慎重派
+    -
+      規律性
+    -
+      穏やか
+    -
+      ムードメーカー
+    -
+      情報通
+    -
+      やや神経質
+    -
+      人の役に立ちたい
+    -
+      ミスが少ない
+    -
+      理想高い
   likes:
     -
       大切な人に頼られたり相談されること
@@ -918,7 +1338,28 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-21: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+21: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      感受性豊か
+    -
+      愛嬌がある
+    -
+      気まぐれ
+    -
+      天才肌
+    -
+      警戒心が強い
+    -
+      おだてに弱い
+    -
+      個人プレー向き
+    -
+      面倒くさがり
+    -
+      直感で動く
+    -
+      多芸多才
   likes:
     -
       ゼロから何かを生み出すこと
@@ -964,7 +1405,28 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-22: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+22: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      優れた話術
+    -
+      リーダータイプ
+    -
+      友達が多い
+    -
+      知識豊富
+    -
+      実践派
+    -
+      変化を求める
+    -
+      飽きっぽい
+    -
+      成果より過程
+    -
+      空気が読める
+    -
+      臨機応変
   likes:
     -
       ゼロから何かを生み出すこと
@@ -1010,7 +1472,28 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-23: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+23: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      幼い
+    -
+      無邪気
+    -
+      優しい
+    -
+      フレキシブル
+    -
+      計算高い
+    -
+      かけひき上手
+    -
+      器用
+    -
+      慎重派
+    -
+      恥ずかしがり屋
+    -
+      寂しがり屋
   likes:
     -
       大切な人に頼られたり相談されること
@@ -1056,7 +1539,28 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-24: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+24: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      教養がある
+    -
+      向上心
+    -
+      強運の持ち主
+    -
+      ユーモアセンスがある
+    -
+      人気者
+    -
+      思いやり
+    -
+      白黒はっきりさせたい
+    -
+      プライドが高い
+    -
+      分析派
+    -
+      思慮深い
   likes:
     -
       独創的なアイデアやオリジナリティ
@@ -1102,7 +1606,28 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-25: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+25: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      裏表がない
+    -
+      正直者
+    -
+      正義感が強い
+    -
+      ポジティブ
+    -
+      無愛想
+    -
+      現実的
+    -
+      公平
+    -
+      潔い
+    -
+      誠実
+    -
+      一匹狼
   likes:
     -
       独創的なアイデアやオリジナリティ
@@ -1148,7 +1673,28 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-26: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+26: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      穏やか
+    -
+      控えめ
+    -
+      気品がある
+    -
+      平和主義者
+    -
+      人付き合いの達人
+    -
+      常識人
+    -
+      知識豊富
+    -
+      几帳面
+    -
+      丁寧
+    -
+      評価されたい
   likes:
     -
       大切な人に頼られたり相談されること
@@ -1194,7 +1740,28 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-27: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+27: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      感受性が豊か
+    -
+      知識豊富
+    -
+      個性がある
+    -
+      気分の上がり下がりが激しい
+    -
+      共感性が高い
+    -
+      慰め上手
+    -
+      分析力がある
+    -
+      強運
+    -
+      欲がない
+    -
+      飽きっぽい
   likes:
     -
       ゼロから何かを生み出すこと
@@ -1240,7 +1807,28 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-28: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+28: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      天真爛漫
+    -
+      正直者
+    -
+      行動力
+    -
+      順応性
+    -
+      ガンコ
+    -
+      かけひきが苦手
+    -
+      情にもろい
+    -
+      おっちょこちょい
+    -
+      逆境に強い
+    -
+      飽きっぽい
   likes:
     -
       ゼロから何かを生み出すこと
@@ -1286,7 +1874,28 @@
       自分のやりたいことや得意なことに没頭できる環境
     -
       変化があり柔軟に活動できる環境
-29: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+29: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      知的
+    -
+      人当たりがいい
+    -
+      落ち着いている
+    -
+      活動的
+    -
+      謙虚
+    -
+      社交的
+    -
+      チャレンジ精神
+    -
+      探究心
+    -
+      ド根性
+    -
+      経済的な面を優先
   likes:
     -
       大切な人に頼られたり相談されること
@@ -1332,7 +1941,28 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-30: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+30: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      明るい
+    -
+      華やか
+    -
+      公平な態度
+    -
+      正直者
+    -
+      自信家
+    -
+      個性的
+    -
+      堂々としている
+    -
+      努力家
+    -
+      判断力がある
+    -
+      順応性が低い
   likes:
     -
       独創的なアイデアやオリジナリティ
@@ -1378,7 +2008,28 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-31: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+31: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      努力家
+    -
+      行動派
+    -
+      決断力がある
+    -
+      責任感が強い
+    -
+      堂々としている
+    -
+      妥協は許さない
+    -
+      素直
+    -
+      円満な人間関係を築く
+    -
+      完璧主義者
+    -
+      周りの目を気にする
   likes:
     -
       サプライズやイベントの企画
@@ -1424,7 +2075,28 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-32: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+32: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      気配り上手
+    -
+      お人好し
+    -
+      しっかり者
+    -
+      完璧主義
+    -
+      安定感重視
+    -
+      トラブル回避型
+    -
+      甘え上手
+    -
+      世渡り上手
+    -
+      責任感がある
+    -
+      好き嫌いを顔に出さない
   likes:
     -
       ありのままの自分でいられること
@@ -1470,7 +2142,28 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-33: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+33: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      行動力
+    -
+      度胸がある
+    -
+      熱い人
+    -
+      お調子者
+    -
+      涙もろい
+    -
+      カンが鋭い
+    -
+      政治力
+    -
+      芸術的センス
+    -
+      せっかち
+    -
+      頭の回転がはやい
   likes:
     -
       長期的に夢を叶えること
@@ -1516,7 +2209,28 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-34: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+34: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      気さく
+    -
+      爽やか
+    -
+      バイタリティがある
+    -
+      行動派
+    -
+      存在感
+    -
+      社交性
+    -
+      やや神経質
+    -
+      仕事ができる
+    -
+      実は心配性
+    -
+      恋愛下手
   likes:
     -
       自信のある分野で注目されること
@@ -1562,7 +2276,28 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-35: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+35: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      思いやり
+    -
+      度胸がある
+    -
+      義理
+    -
+      正義
+    -
+      信頼されている
+    -
+      正義のヒーロー
+    -
+      交渉力
+    -
+      ナルシスト
+    -
+      詰めが甘い
+    -
+      頑張り屋
   likes:
     -
       大切な人に頼られたり相談されること
@@ -1608,7 +2343,28 @@
       相談し合えて、仲間意識の強い環境
     -
       ズルい人や感情的にブレやすい人が少ない環境
-36: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+36: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      冷静沈着
+    -
+      ミステリアス
+    -
+      ユーモアがある
+    -
+      独創性
+    -
+      客観的
+    -
+      ナイーブ
+    -
+      単独行動を好む
+    -
+      芸術的
+    -
+      器用
+    -
+      プライドが高い
   likes:
     -
       独創的なアイデアやオリジナリティ
@@ -1654,7 +2410,28 @@
       人まねではなく、自分の創意工夫が発揮できる環境
     -
       行動を焦らされない環境
-37: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+37: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      真っ直ぐな人
+    -
+      器が大きい
+    -
+      根気がある
+    -
+      忍耐力
+    -
+      責任感
+    -
+      上品
+    -
+      色気がある
+    -
+      切り替え上手
+    -
+      柔軟性
+    -
+      個人プレー
   likes:
     -
       サプライズやイベントの企画
@@ -1700,7 +2477,28 @@
       スピーディーな環境
     -
       プロ意識の高い集団
-38: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+38: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      平和主義
+    -
+      純粋
+    -
+      愛されたい
+    -
+      心はなかなか開かない
+    -
+      穏やか
+    -
+      気配りができる
+    -
+      頑固
+    -
+      好き嫌いが激しい
+    -
+      独自の感性
+    -
+      繊細
   likes:
     -
       ありのままの自分でいられること
@@ -1746,7 +2544,28 @@
       心を許せる仲間と力を合わせられる環境
     -
       焦らせたり、急かされたりしない環境
-39: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+39: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      個性的
+    -
+      ロマンチスト
+    -
+      変化を求める
+    -
+      穏やか
+    -
+      社交的
+    -
+      妄想
+    -
+      現実的
+    -
+      ちゃっかりさん
+    -
+      実は短気
+    -
+      配慮ができる
   likes:
     -
       長期的に夢を叶えること
@@ -1792,7 +2611,28 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-40: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+40: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      行動力
+    -
+      感受性
+    -
+      世話焼き
+    -
+      情報収集力
+    -
+      判断力
+    -
+      器用
+    -
+      合理的
+    -
+      淡白
+    -
+      柔軟性
+    -
+      真面目
   likes:
     -
       自信のある分野で注目されること
@@ -1838,7 +2678,28 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-41: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+41: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      親しみやすい
+    -
+      大器晩成型
+    -
+      影の実力者
+    -
+      努力家
+    -
+      執着心がない
+    -
+      前向き
+    -
+      集中力
+    -
+      自由が好き
+    -
+      順応性
+    -
+      現実派
   likes:
     -
       実績や経験を積んで、腕を磨くこと
@@ -1884,7 +2745,28 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-42: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+42: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      情熱家
+    -
+      夢や理想が高い
+    -
+      行動派
+    -
+      頭の回転が速い
+    -
+      気が短い
+    -
+      損得勘定に厳しい
+    -
+      頭が切れる
+    -
+      カンがいい
+    -
+      説得力
+    -
+      敵も味方も多い
   likes:
     -
       みんなが無理と思っていることにチャレンジできること
@@ -1930,7 +2812,28 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-43: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+43: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      頭脳明晰
+    -
+      温厚
+    -
+      負けず嫌い
+    -
+      面倒見がいい
+    -
+      マイペース
+    -
+      差別しない
+    -
+      決断力
+    -
+      行動力
+    -
+      まとめる力がある
+    -
+      独立運
   likes:
     -
       全体像をつかんで、バランスを取ること
@@ -1976,7 +2879,28 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-44: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+44: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      多才
+    -
+      独創性
+    -
+      説得力
+    -
+      情報通
+    -
+      リーダー素質
+    -
+      行動力
+    -
+      フットワークが軽い
+    -
+      順応性
+    -
+      プライドが高い
+    -
+      感情にムラがある
   likes:
     -
       新しいものや最先端の話題
@@ -2022,7 +2946,28 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-45: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+45: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      冷静
+    -
+      顔色をうかがう
+    -
+      行動力
+    -
+      気品
+    -
+      知性
+    -
+      芸術性
+    -
+      自分に厳しい
+    -
+      お人好し
+    -
+      要領がいい
+    -
+      短期集中型
   likes:
     -
       長期的に夢を叶えること
@@ -2068,7 +3013,28 @@
       リスクが高い環境ではなく、堅実な環境
     -
       ストレスがたまり続けない環境
-46: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+46: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      明るい
+    -
+      社交家
+    -
+      野心家
+    -
+      自信家
+    -
+      負けず嫌い
+    -
+      実利主義
+    -
+      堅実
+    -
+      プライドが高い
+    -
+      向上心
+    -
+      落ち込むとひきずる
   likes:
     -
       自信のある分野で注目されること
@@ -2114,7 +3080,28 @@
       小さな結果でもすぐに実感できる環境
     -
       自分の頑張りが、合理的に評価される環境
-47: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+47: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      礼儀正しい
+    -
+      誠実
+    -
+      真面目
+    -
+      みんなのお手本
+    -
+      和ませ役
+    -
+      ど根性
+    -
+      きびきびしている
+    -
+      職人気質
+    -
+      天然ボケ
+    -
+      世渡り上手
   likes:
     -
       実績や経験を積んで、腕を磨くこと
@@ -2160,7 +3147,28 @@
       他人ではなく自分しかできないなど、存在意義が感じられる環境
     -
       一流の物や人に触れる機会が多い環境
-48: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+48: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      素直
+    -
+      好き嫌いはっきり
+    -
+      あわてんぼう
+    -
+      マイペース
+    -
+      自他ともに厳しい
+    -
+      努力家
+    -
+      勝ち気
+    -
+      適応力
+    -
+      堂々としている
+    -
+      実はナイーブ
   likes:
     -
       みんなが無理と思っていることにチャレンジできること
@@ -2206,7 +3214,28 @@
       ファミリー的な温かさがある環境
     -
       失敗しても怒られない環境
-49: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+49: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      好奇心旺盛
+    -
+      多趣味
+    -
+      ポジティブ
+    -
+      器用
+    -
+      広い交友関係
+    -
+      頭の回転が速い
+    -
+      多才
+    -
+      理想高い
+    -
+      感受性が強い
+    -
+      好き嫌いはっきり
   likes:
     -
       全体像をつかんで、バランスを取ること
@@ -2252,7 +3281,28 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-50: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+50: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      穏やか
+    -
+      芯が強い
+    -
+      機転が利く
+    -
+      大人
+    -
+      サバサバしている
+    -
+      まとめ役
+    -
+      自立心が高い
+    -
+      直感力
+    -
+      柔軟性
+    -
+      熱しやすく冷めやすい
   likes:
     -
       新しいものや最先端の話題
@@ -2298,7 +3348,28 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-51: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+51: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      完璧主義者
+    -
+      自他ともに厳しい
+    -
+      強運
+    -
+      妥協を許さない
+    -
+      明るい
+    -
+      独立心
+    -
+      オールマイティー
+    -
+      真面目
+    -
+      プライドが高い
+    -
+      礼儀正しい
   likes:
     -
       威厳のある態度を示し、堂々としていること
@@ -2344,7 +3415,28 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-52: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+52: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      リーダー気質
+    -
+      優雅
+    -
+      ロマンチスト
+    -
+      自我が強い
+    -
+      二面性
+    -
+      警戒心が強い
+    -
+      孤独を好む
+    -
+      論理的
+    -
+      観察力
+    -
+      洞察力
   likes:
     -
       威厳のある態度を示し、堂々としていること
@@ -2390,7 +3482,28 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-53: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+53: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      純粋無垢
+    -
+      優しい
+    -
+      騙されやすい
+    -
+      人見知り
+    -
+      お茶目
+    -
+      自由人
+    -
+      飽きっぽい
+    -
+      センスがある
+    -
+      優柔不断
+    -
+      潔い
   likes:
     -
       新しいものや最先端の話題
@@ -2436,7 +3549,28 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-54: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+54: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      平等精神
+    -
+      真面目
+    -
+      信頼が厚い
+    -
+      明るい
+    -
+      素直
+    -
+      平凡を望む
+    -
+      気遣いができる
+    -
+      裏を読めない
+    -
+      意志が強い
+    -
+      短期集中型
   likes:
     -
       全体像をつかんで、バランスを取ること
@@ -2482,7 +3616,28 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-55: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+55: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      真っ直ぐ
+    -
+      熱血
+    -
+      大人っぽい
+    -
+      結果主義
+    -
+      正義感が強い
+    -
+      物怖じしない
+    -
+      頼もしい
+    -
+      自信家
+    -
+      大器晩成型
+    -
+      努力家
   likes:
     -
       全体像をつかんで、バランスを取ること
@@ -2528,7 +3683,28 @@
       肩書きや立場で態度をコロコロ変えなくても良い環境
     -
       研究や学術など、じっくり納得して没頭できる環境
-56: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+56: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      ハイセンス
+    -
+      好奇心旺盛
+    -
+      包容力
+    -
+      礼儀正しい
+    -
+      常識人
+    -
+      チャレンジャー
+    -
+      プライドが高い
+    -
+      楽観的
+    -
+      根性がある
+    -
+      優れた色彩感覚
   likes:
     -
       新しいものや最先端の話題
@@ -2574,7 +3750,28 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-57: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+57: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      真面目
+    -
+      安定感
+    -
+      頭の切り替えが早い
+    -
+      感情表現が苦手
+    -
+      愛想がない
+    -
+      毒舌
+    -
+      面倒見がいい
+    -
+      繊細
+    -
+      正義感
+    -
+      実行力
   likes:
     -
       威厳のある態度を示し、堂々としていること
@@ -2620,7 +3817,28 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-58: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+58: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      強い信念
+    -
+      完璧主義者
+    -
+      真面目
+    -
+      堅実
+    -
+      自他ともに厳しい
+    -
+      ガラスのハート
+    -
+      落ち込みやすい
+    -
+      甘え下手
+    -
+      強運の持ち主
+    -
+      一生懸命
   likes:
     -
       威厳のある態度を示し、堂々としていること
@@ -2666,7 +3884,28 @@
       自分も人も、完璧を追い求められるような環境
     -
       仲間の面倒見てあげられる環境
-59: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+59: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      物静かでクール
+    -
+      冷静
+    -
+      不言実行
+    -
+      人気者
+    -
+      気が利く
+    -
+      主観に偏りがち
+    -
+      判断力
+    -
+      自信家
+    -
+      善人
+    -
+      競争は苦手
   likes:
     -
       新しいものや最先端の話題
@@ -2712,7 +3951,28 @@
       自分も含めてみんなで一緒に向上できる環境
     -
       新しい人やモノに頻繁に出会える環境
-60: name: image_names: color: job: element: catch_copy: comments: - - feature: keywords: - - - - - - - - - -
+60: name: image_names: color: job: element: catch_copy: comments: - - feature:
+  keywords:
+    -
+      温厚で誠実
+    -
+      柔軟性
+    -
+      純粋無垢
+    -
+      自分の世界観をもっている
+    -
+      世話好き
+    -
+      幅広い交友関係
+    -
+      ロマンチスト
+    -
+      お世辞に弱い
+    -
+      責任感
+    -
+      お金の使い方が上手い
   likes:
     -
       全体像をつかんで、バランスを取ること
