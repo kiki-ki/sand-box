@@ -12,3 +12,7 @@ end
 get '/pom/*' do |name|
   "my name is #{name}"
 end
+
+get '/erb_temp' do
+  erb :temp
+end
