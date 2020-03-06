@@ -16,3 +16,7 @@ end
 get '/erb_temp' do
   erb :temp
 end
+
+get '/markdown' do
+  markdown :markdown_temp
+end
