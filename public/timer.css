@@ -8,7 +8,7 @@ body {
 }
 
 h2 {
-    color: #000;
+  color: #000;
 }
 
 #textWrapper {
@@ -25,4 +25,7 @@ h2 {
   padding: 0;
   width: 100%;
   display: table-cell;
+  font-size: 40px;
+  font-family: "Overpass";
+  text-align: center;
 }

@@ -22,67 +22,48 @@ var Time = {
   remainingSeconds: 0,
   totalMilliseconds: 0,
   remainingMilliseconds: 0,
-  calcTime: function(a, b) {
-    startDate = new Date(a),
-    endDate = new Date(b);
-    
-    var c = endDate.getTime() - startDate.getTime();
-    
-    Time.totalMilliseconds = c / Time.MILLISECONDS,
-    Time.totalSeconds = c / Time.SECONDS,
-    Time.totalMinutes = c / Time.MINUTES,
-    Time.totalHours = c / Time.HOURS,
-    Time.totalDays = c / Time.DAYS,
-    Time.totalMonths = Time.calcTotalMonths(Time.totalDays, startDate),
-    Time.totalYears = Time.totalMonths / 12,
-    Time.remainingYears = int(Time.totalYears),
-    Time.remainingMonths = int(Time.totalMonths - 12 * Time.remainingYears),
-    Time.remainingDays = 
-      int(Time.totalDays - Time.getDaysFromMonths(startDate, Time.totalMonths)),
-    Time.remainingHours = int(Time.totalHours - 24 * int(Time.totalDays)),
-    Time.remainingMinutes = int(Time.totalMinutes - 60 * int(Time.totalHours)),
-    Time.remainingSeconds =
-      int(Time.totalSeconds - 60 * int(Time.totalMinutes)),
-    Time.remainingMilliseconds =
-      int(Time.totalMilliseconds - 1e3 * int(Time.totalSeconds));
+  calcTime: function(startDate, endDate) {
+    const c = endDate.getTime() - startDate.getTime();
+
+    Time.totalMilliseconds = c / Time.MILLISECONDS;
+    Time.totalSeconds = c / Time.SECONDS;
+    Time.totalMinutes = c / Time.MINUTES;
+    Time.totalHours = c / Time.HOURS;
+    Time.totalDays = c / Time.DAYS;
+    Time.totalMonths = Time.calcTotalMonths(Time.totalDays, startDate);
+    Time.totalYears = Time.totalMonths / 12;
+    Time.remainingYears = int(Time.totalYears);
+    Time.remainingMonths = int(Time.totalMonths - 12 * Time.remainingYears);
+    Time.remainingDays = int(Time.totalDays - Time.getDaysFromMonths(startDate, Time.totalMonths));
+    Time.remainingHours = int(Time.totalHours - 24 * int(Time.totalDays));
+    Time.remainingMinutes = int(Time.totalMinutes - 60 * int(Time.totalHours));
+    Time.remainingSeconds = int(Time.totalSeconds - 60 * int(Time.totalMinutes));
+    Time.remainingMilliseconds = int(Time.totalMilliseconds - 1e3 * int(Time.totalSeconds));
   },
   isLeapYear: function(a) {
     return a > 0 && !(a % 4) && (a % 100 || !(a % 400));
   },
   calcTotalMonths: function(a, b) {
-    for (
-      var c = b.getMonth(),
-        d = b.getFullYear(),
-        e = c,
-        f = d,
-        g = 0;
-      a > Time.daysInMonth[e];
-    ){
-      a -= Time.daysInMonth[e],
-      2 == e && Time.isLeapYear(f) && (a -= 1),
-      e++,
-      12 == e && (e = 0, f++),
-      g++;
+    let c = b.getMonth(),
+      d = b.getFullYear(),
+      g = 0;
+    for (; a > Time.daysInMonth[c]; g++){
+      a -= Time.daysInMonth[c];
+      2 == c && Time.isLeapYear(d) && (a -= 1);
+      c++;
+      12 == c && (c = 0, d++);
     }
-    var h = a / Time.daysInMonth[e];
-    return g + h;
+    return g + a / Time.daysInMonth[c];
   },
   getDaysFromMonths: function(a, b) {
-    b = int(b);
-    for (
-      var c = a.getMonth(),
-        d = a.getFullYear(),
-        e = c,
-        f = d,
-        g = 0,
-        h = 0;
-      b > h;
-      h++
-    ){
-      g += Time.daysInMonth[e],
-        2 == e && Time.isLeapYear(f) && (g += 1),
-        e++,
-        12 == e && (e = 0, f++);
+    let c = a.getMonth(),
+      d = a.getFullYear(),
+      g = 0;
+    for (let h = 0; int(b) > h; h++){
+      g += Time.daysInMonth[c];
+      2 == c && Time.isLeapYear(d) && (g += 1);
+      c++;
+      12 == c && (c = 0, d++);
     }
     return g;
   }
