@@ -1,34 +1,35 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <title>Pitchtimer</title>
+		<title>Pitchtimer</title>
 
-    <meta name="Description" content="PitchTimer is a simple countdown timer.">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <meta name="title" content="PitchTimer">
-    <link href="//fonts.googleapis.com/css?family=Overpass" rel="stylesheet">
-    <link rel="stylesheet" href="./timer.css" type="text/css" media="screen" title="Normal">
-  </head>
+		<meta name="Description" content="PitchTimer is a simple countdown timer.">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+		<meta name="title" content="PitchTimer">
+		<link href="//fonts.googleapis.com/css?family=Overpass" rel="stylesheet">
+		<link rel="stylesheet" href="./timer.css" type="text/css" media="screen" title="Normal">
+	</head>
 
-  <body>
-    <div id="textWrapper">
-      <h2 id="progressText"></h2>
-    </div>
+	<body>
+		<div id="textWrapper">
+			<h2 id="progressText"></h2>
+		</div>
 
-    <audio id="alarm" style="display:none;" preload="auto" autobuffer="" src="./timeUp.mp3" type="audio/mpeg">
-    </audio>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-    <script src="./Pitch3.js" type="text/javascript"></script>
-    <script src="./Time.js" type="text/javascript"></script>
-    <script type="text/javascript">
-      Pitch.defaultText = "PitchTimer";
-      Pitch.startTime = 0;
-      Pitch.endTime = 120000;
-      Pitch.sequence = []
-      Pitch.parseError = "";
-      Pitch.canAlert = true;
-    </script>
-  </body>
+		<audio id="alarm" style="display:none;" preload="auto" autobuffer="" src="./timeUp.mp3" type="audio/mpeg">
+		</audio>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+		<script src="./Pitch3.js" type="text/javascript"></script>
+		<script src="./Time.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			Pitch.defaultText = "PitchTimer";
+			Pitch.startTime = 0;
+			Pitch.endTime = 120000;
+			Pitch.sequence = []
+			Pitch.parseError = "";
+			Pitch.canAlert = true;
+		</script>
+	</body>
+
 </html>
