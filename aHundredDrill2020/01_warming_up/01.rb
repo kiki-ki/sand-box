@@ -1,4 +1,2 @@
 str = "パタトクカシーー"
-s = ""
-str.length.times{ |i| s += str[i] if i.even? }
-p s
+p str.length.times.map{ |i| str[i] if i.even? }.join
