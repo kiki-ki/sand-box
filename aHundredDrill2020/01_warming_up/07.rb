@@ -1,5 +1,5 @@
-x = 12
-y = "気温"
-z = 22.4
+def template(x, y, z)
+  "#{x}時の#{y}は#{z}"
+end
 
-p "#{x}時の#{y}は#{z}"
+p template(12, "気温", 22.4)
