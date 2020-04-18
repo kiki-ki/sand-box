@@ -1,10 +1,12 @@
+# frozen_string_literal: true
+
 module Printable
   def print
-    p "print out."
+    p 'print out.'
   end
 
   def prepare_cover
-    p "covered."
+    p 'covered.'
   end
 end
 
@@ -16,11 +18,11 @@ module Document
   end
 
   def format_for_screen
-    p "formated."
+    p 'formated.'
   end
 
   def print
-    p "in the Document."
+    p 'in the Document.'
   end
 end
 
