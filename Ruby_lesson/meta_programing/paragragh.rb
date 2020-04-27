@@ -14,4 +14,8 @@ class Palagraph
   def upcase
     @text.upcase
   end
+
+  def self.title?(text)
+    text.upcase == text
+  end
 end
