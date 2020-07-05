@@ -1,0 +1,1 @@
+p gets =~/[aiueo]/ ? :correct : :non

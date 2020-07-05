@@ -1,0 +1,1 @@
+p String.new("コンちゃ")

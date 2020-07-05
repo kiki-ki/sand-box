@@ -1,0 +1,611 @@
+AB:
+  question_id:
+    1:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -3
+    2:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    3:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+    4:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+    5:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+    6:
+      type: N
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaC: 3
+    7:
+      type: N
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaC: -4
+    8:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+    9:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+    10:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 4
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -4
+    11:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    12:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -4
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 4
+    13:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    14:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -4
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 4
+    15:
+      type: N
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaC: -3
+    16:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -3
+    17:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 5
+    18:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -3
+    19:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -3
+    20:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    21:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 4
+    22:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+    23:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 5
+    24:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 5
+    25:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 5
+    26:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+    27:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+    28:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -3
+    29:
+      type: P
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    30:
+      type: P
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    31:
+      type: P
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+    32:
+      type: P
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    33:
+      type: P
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    34:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+    35:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+    36:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+    37:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+    38:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    39:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -4
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 4
+    40:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -5
+    41:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -5
+    42:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    43:
+      type: P
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+    44:
+      type: P
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+    45:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -5
+    46:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    47:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+    48:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    49:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+    50:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 4
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -4
+    51:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    52:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    53:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -4
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 4
+    54:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    55:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -3
+    56:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -4
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 4
+    57:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -2
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 2
+    58:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    59:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    60:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    61:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    62:
+      type: P
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    63:
+      type: P
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    64:
+      type: P
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    65:
+      type: P
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+    66:
+      type: P
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    67:
+      type: P
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    68:
+      type: P
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    # type:pだがyes|noそれぞれにweightあり
+    69:
+      type: P
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -3
+    70:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 4
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    71:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    72:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    73:
+      type: N
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaC: 4
+    74:
+      type: N
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 4
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaC: -3
+    75:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+    76:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+    77:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+    78:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+    79:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -5
+    80:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    81:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 4
+    82:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    83:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    84:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+    85:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    86:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    87:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+    88:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+    89:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+    90:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+    91:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -4
+    92:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -5
+    93:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+    94:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+    95:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+    96:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+    97:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+    98:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+    99:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 4
+    100:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+    101:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+    102:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+    103:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+    104:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+    105:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+    106:
+      type: O
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -4
+    107:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -5
+    108:
+      type: L
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -2
+    109:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 5
+    110:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 5
+    111:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    112:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -4
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+    113:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 5
+    114:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 5
+    115:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 5
+    116:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -4
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 5
+    117:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 4
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    118:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 5
+    119:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+    120:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+    121:
+      type: M
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 5
+    122:
+      type: N
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -4
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaC: 0
+    123:
+      type: Q
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaC: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaD: 0
+    124:
+      type: Q
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 2
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaC: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaD: 5
+    125:
+      type: Q
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: -4
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaC: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaD: 0
+    126:
+      type: Q
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 0
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaC: -3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaD: 0
+    127:
+      type: Q
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: -3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaC: 5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaD: 3
+    128:
+      type: Q
+      weights:
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaB: 3
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaC: -5
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaD: -4

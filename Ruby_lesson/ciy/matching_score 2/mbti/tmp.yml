@@ -1,0 +1,611 @@
+E:
+  question_id:
+    1:
+      type: L
+      weights:
+        A:
+        B:
+    2:
+      type: L
+      weights:
+        A:
+        B:
+    3:
+      type: L
+      weights:
+        A:
+        B:
+    4:
+      type: L
+      weights:
+        A:
+        B:
+    5:
+      type: L
+      weights:
+        A:
+        B:
+    6:
+      type: N
+      weights:
+        A:
+        B:
+        C:
+    7:
+      type: N
+      weights:
+        A:
+        B:
+        C:
+    8:
+      type: L
+      weights:
+        A:
+        B:
+    9:
+      type: L
+      weights:
+        A:
+        B:
+    10:
+      type: L
+      weights:
+        A:
+        B:
+    11:
+      type: L
+      weights:
+        A:
+        B:
+    12:
+      type: L
+      weights:
+        A:
+        B:
+    13:
+      type: L
+      weights:
+        A:
+        B:
+    14:
+      type: L
+      weights:
+        A:
+        B:
+    15:
+      type: N
+      weights:
+        A:
+        B:
+        C:
+    16:
+      type: L
+      weights:
+        A:
+        B:
+    17:
+      type: L
+      weights:
+        A:
+        B:
+    18:
+      type: L
+      weights:
+        A:
+        B:
+    19:
+      type: L
+      weights:
+        A:
+        B:
+    20:
+      type: L
+      weights:
+        A:
+        B:
+    21:
+      type: L
+      weights:
+        A:
+        B:
+    22:
+      type: L
+      weights:
+        A:
+        B:
+    23:
+      type: L
+      weights:
+        A:
+        B:
+    24:
+      type: L
+      weights:
+        A:
+        B:
+    25:
+      type: L
+      weights:
+        A:
+        B:
+    26:
+      type: L
+      weights:
+        A:
+        B:
+    27:
+      type: L
+      weights:
+        A:
+        B:
+    28:
+      type: L
+      weights:
+        A:
+        B:
+    29:
+      type: P
+      weights:
+        A:
+    30:
+      type: P
+      weights:
+        A:
+    31:
+      type: P
+      weights:
+        A:
+    32:
+      type: P
+      weights:
+        A:
+    33:
+      type: P
+      weights:
+        A:
+    34:
+      type: O
+      weights:
+        A:
+    35:
+      type: O
+      weights:
+        A:
+    36:
+      type: O
+      weights:
+        A:
+    37:
+      type: O
+      weights:
+        A:
+    38:
+      type: M
+      weights:
+        A:
+        B:
+    39:
+      type: L
+      weights:
+        A:
+        B:
+    40:
+      type: L
+      weights:
+        A:
+        B:
+    41:
+      type: L
+      weights:
+        A:
+        B:
+    42:
+      type: L
+      weights:
+        A:
+        B:
+    43:
+      type: P
+      weights:
+        A:
+    44:
+      type: P
+      weights:
+        A:
+    45:
+      type: M
+      weights:
+        A:
+        B:
+    46:
+      type: M
+      weights:
+        A:
+        B:
+    47:
+      type: M
+      weights:
+        A:
+        B:
+    48:
+      type: M
+      weights:
+        A:
+        B:
+    49:
+      type: M
+      weights:
+        A:
+        B:
+    50:
+      type: M
+      weights:
+        A:
+        B:
+    51:
+      type: M
+      weights:
+        A:
+        B:
+    52:
+      type: M
+      weights:
+        A:
+        B:
+    53:
+      type: M
+      weights:
+        A:
+        B:
+    54:
+      type: M
+      weights:
+        A:
+        B:
+    55:
+      type: M
+      weights:
+        A:
+        B:
+    56:
+      type: M
+      weights:
+        A:
+        B:
+    57:
+      type: L
+      weights:
+        A:
+        B:
+    58:
+      type: L
+      weights:
+        A:
+        B:
+    59:
+      type: L
+      weights:
+        A:
+        B:
+    60:
+      type: L
+      weights:
+        A:
+        B:
+    61:
+      type: M
+      weights:
+        A:
+        B:
+    62:
+      type: P
+      weights:
+        A:
+    63:
+      type: P
+      weights:
+        A:
+    64:
+      type: P
+      weights:
+        A:
+    65:
+      type: P
+      weights:
+        A:
+    66:
+      type: P
+      weights:
+        A:
+    67:
+      type: P
+      weights:
+        A:
+    68:
+      type: P
+      weights:
+        A:
+    # type:pだがyes|noそれぞれにweightあり
+    69:
+      type: P
+      weights:
+        A:
+        B:
+    70:
+      type: L
+      weights:
+        A:
+        B:
+    71:
+      type: L
+      weights:
+        A:
+        B:
+    72:
+      type: L
+      weights:
+        A:
+        B:
+    73:
+      type: N
+      weights:
+        A:
+        B:
+        C:
+    74:
+      type: N
+      weights:
+        A:
+        B:
+        C:
+    75:
+      type: O
+      weights:
+        A:
+    76:
+      type: O
+      weights:
+        A:
+    77:
+      type: O
+      weights:
+        A:
+    78:
+      type: O
+      weights:
+        A:
+    79:
+      type: O
+      weights:
+        A:
+    80:
+      type: O
+      weights:
+        A:
+    81:
+      type: O
+      weights:
+        A:
+    82:
+      type: O
+      weights:
+        A:
+    83:
+      type: O
+      weights:
+        A:
+    84:
+      type: O
+      weights:
+        A:
+    85:
+      type: O
+      weights:
+        A:
+    86:
+      type: O
+      weights:
+        A:
+    87:
+      type: O
+      weights:
+        A:
+    88:
+      type: O
+      weights:
+        A:
+    89:
+      type: O
+      weights:
+        A:
+    90:
+      type: O
+      weights:
+        A:
+    91:
+      type: O
+      weights:
+        A:
+    92:
+      type: O
+      weights:
+        A:
+    93:
+      type: O
+      weights:
+        A:
+    94:
+      type: O
+      weights:
+        A:
+    95:
+      type: O
+      weights:
+        A:
+    96:
+      type: O
+      weights:
+        A:
+    97:
+      type: O
+      weights:
+        A:
+    98:
+      type: O
+      weights:
+        A:
+    99:
+      type: O
+      weights:
+        A:
+    100:
+      type: O
+      weights:
+        A:
+    101:
+      type: O
+      weights:
+        A:
+    102:
+      type: O
+      weights:
+        A:
+    103:
+      type: O
+      weights:
+        A:
+    104:
+      type: O
+      weights:
+        A:
+    105:
+      type: O
+      weights:
+        A:
+    106:
+      type: O
+      weights:
+        A:
+    107:
+      type: L
+      weights:
+        A:
+        B:
+    108:
+      type: L
+      weights:
+        A:
+        B:
+    109:
+      type: M
+      weights:
+        A:
+        B:
+    110:
+      type: M
+      weights:
+        A:
+        B:
+    111:
+      type: M
+      weights:
+        A:
+        B:
+    112:
+      type: M
+      weights:
+        A:
+        B:
+    113:
+      type: M
+      weights:
+        A:
+        B:
+    114:
+      type: M
+      weights:
+        A:
+        B:
+    115:
+      type: M
+      weights:
+        A:
+        B:
+    116:
+      type: M
+      weights:
+        A:
+        B:
+    117:
+      type: M
+      weights:
+        A:
+        B:
+    118:
+      type: M
+      weights:
+        A:
+        B:
+    119:
+      type: M
+      weights:
+        A:
+        B:
+    120:
+      type: M
+      weights:
+        A:
+        B:
+    121:
+      type: M
+      weights:
+        A:
+        B:
+    122:
+      type: N
+      weights:
+        A:
+        B:
+        C:
+    123:
+      type: Q
+      weights:
+        A:
+        B:
+        C:
+        D:
+    124:
+      type: Q
+      weights:
+        A:
+        B:
+        C:
+        D:
+    125:
+      type: Q
+      weights:
+        A:
+        B:
+        C:
+        D:
+    126:
+      type: Q
+      weights:
+        A:
+        B:
+        C:
+        D:
+    127:
+      type: Q
+      weights:
+        A:
+        B:
+        C:
+        D:
+    128:
+      type: Q
+      weights:
+        A:
+        B:
+        C:
+        D:
