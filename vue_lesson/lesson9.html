@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>コンポーネント</title>
+</head>
+<body>
+  <div id="fruits-component">
+    <ol>
+      <fruits-item-name v-for="fruit in fruitsItems" :key="fruit.name" :fruits-item="fruit"></fruits-item-name>
+    </ol>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script>
+
+    Vue.component('fruits-item-name', {
+      template: '<li>{{fruitsItem.name}}</li>',
+      props: {
+        fruitsItem: {
+          type: Object,
+          required: true
+        }
+      }
+    })
+
+    new Vue({
+      el: '#fruits-component',
+      data: {
+        fruitsItems: [
+          {name: "りんご"},
+          {name: "バナナ"}
+        ]
+      }
+    })
+  </script>
+</body>
+</html>

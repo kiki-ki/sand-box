@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>コンポーネント</title>
+</head>
+<body>
+  <div id="main">
+    <fruits-list></fruits-list>
+  </div>
+  <div id="pon">
+    <fruits-list-pon></fruits-list-pon>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script>
+    var FruitsListPon = Vue.extend ({
+      template: '<h3>こむこむ</h3>',
+      })
+    new FruitsListPon().$mount('#pon')
+
+    new Vue({
+      el: '#main',
+      components: {
+        'fruits-list': {
+          template: '<h2>フルーツ一覧</h2>'
+        }
+      }
+    })
+  </script>
+
+</body>
+</html>
