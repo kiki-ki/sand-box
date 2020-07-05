@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <script type="text/javascript">
+    let a,b;
+    a = 3;
+    b = 4;
+    while(a <= 5){
+      document.write("a = " + a + ", b = " + b + "<br>\n");
+      if(a < b){
+        document.write("ちっさいねん by b" + "<br>\n");
+      }
+      else if(a === b){
+        document.write("おっきくなったなぁ" + "<br>\n");
+      }
+      else{
+        document.write("ちっこいねん by a" + "<br>\n")
+      }
+      a++;
+    }
+    document.write("<br>\n");
+    let c = 4;
+    for(i=4; i>=1; i--){
+      switch(c)
+      {
+        case 1:
+          document.write("値は1" + "<br>\n");
+          break;
+        case 2:
+          document.write("値は2" + "<br>\n");
+          break;
+        case 3:
+          document.write("値は3" + "<br>\n");
+          break;
+        default:
+          document.write("どれもちゃう" + "<br>\n");
+      }
+      c--;
+    }
+  </script>
+</body>
+</html>
