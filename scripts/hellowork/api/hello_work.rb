@@ -58,5 +58,3 @@ class ApiClient
     Hash.from_xml(res.body)
   end
 end
-
-p ApiClient.new.get_kyujin("M100", 1)
