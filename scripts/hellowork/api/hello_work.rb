@@ -17,7 +17,7 @@ class User
   end
 
   def destroy_token
-    res = RestClient.post(
+    RestClient.post(
       'https://teikyo.hellowork.mhlw.go.jp/teikyo/api/2.0/auth/delToken',
       token
     )
@@ -35,6 +35,8 @@ class User
 end
 
 class ApiClient
+  attr_reader :token
+
   def initialize
     u = User.new
     @token = u.token
@@ -43,7 +45,7 @@ class ApiClient
   def get_kyujin_list
     res = RestClient.post(
       'https://teikyo.hellowork.mhlw.go.jp/teikyo/api/2.0/kyujin',
-      { token: @token }
+      { token: token }
     )
     Hash.from_xml(res.body)["root"]["kyujin_list"]["data"]
   end
@@ -52,7 +54,7 @@ class ApiClient
     list = get_kyujin_list
     kyujin = list.select { |k| k["data_id"] == data_id }.first
     pass = kyujin["link"]["href"]
-    res = RestClient.post(pass, @token)
+    res = RestClient.post(pass, token)
     Hash.from_xml(res.body)
   end
 end
