@@ -19,7 +19,7 @@ class User
   def destroy_token
     RestClient.post(
       'https://teikyo.hellowork.mhlw.go.jp/teikyo/api/2.0/auth/delToken',
-      token
+      { token: token }
     )
     self.token = nil
   end
@@ -52,9 +52,9 @@ class ApiClient
 
   def get_kyujin(data_id, page)
     list = get_kyujin_list
-    kyujin = list.select { |k| k["data_id"] == data_id }.first
-    pass = kyujin["link"]["href"] + "/#{page}"
-    res = RestClient.post(pass, token)
-    Hash.from_xml(res.body)
+    tar = list.select { |i| i["data_id"] == data_id }.first
+    pass = tar["link"]["href"] + "/#{page}"
+    res = RestClient.post(pass, { token: token })
+    Hash.from_xml(res.body)["root"]["kyujin"]["data"]
   end
 end
