@@ -4,12 +4,12 @@ require 'active_support'
 require 'active_support/core_ext'
 
 class User
-  attr_reader *%i(id pass token)
+  attr_reader *%i(id password token)
 
   def initialize
     info = YAML.load_file("config/secret.yml")["hello_work"]
     @id = info["id"]
-    @pass = info["pass"]
+    @password = info["password"]
   end
 
   def token
@@ -28,7 +28,7 @@ class User
     def get_token
       res = RestClient.post(
         'https://teikyo.hellowork.mhlw.go.jp/teikyo/api/2.0/auth/getToken',
-        { id: id, pass: pass }
+        { id: id, pass: password }
       )
       Hash.from_xml(res.body)["root"]["token"]
     end
@@ -50,11 +50,13 @@ class ApiClient
     Hash.from_xml(res.body)["root"]["kyujin_list"]["data"]
   end
 
-  def get_kyujin(data_id)
+  def get_kyujin(data_id, page)
     list = get_kyujin_list
     kyujin = list.select { |k| k["data_id"] == data_id }.first
-    pass = kyujin["link"]["href"]
+    pass = kyujin["link"]["href"] + "/#{page}"
     res = RestClient.post(pass, token)
     Hash.from_xml(res.body)
   end
 end
+
+p ApiClient.new.get_kyujin("M100", 1)
