@@ -17,7 +17,7 @@ disp =  "   " * first_day_of_the_week
   if (first_day_of_the_week + day) % week.size == 0
     puts disp
     disp = ""
-  else
-    puts disp if day == last_day
+  elsif day == last_day
+    puts disp
   end
 end
