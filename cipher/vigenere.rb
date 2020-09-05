@@ -29,11 +29,3 @@ module Cipher
     end
   end
 end
-
-key = "ARM"
-code = "CODE"
-puts code
-encrypted_code =  Cipher::Vigenere.encrypt(key: key, code: code)
-puts encrypted_code
-decrypted_code =  Cipher::Vigenere.decrypt(key: key, code: encrypted_code)
-puts decrypted_code

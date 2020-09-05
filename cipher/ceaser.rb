@@ -32,28 +32,3 @@ module Cipher
     end
   end
 end
-
-# ceaser test
-code = "AB cd"
-shift_num = 3
-is_left = true
-
-puts code
-
-encrypted_code =
-  Cipher::Ceaser.encrypt(
-    code: code,
-    shift_num: shift_num,
-    is_left: is_left
-  )
-
-puts encrypted_code
-
-decrypted_code =
-  Cipher::Ceaser.decrypt(
-    code: encrypted_code,
-    shift_num: shift_num,
-    is_left: is_left
-  )
-
-puts decrypted_code
