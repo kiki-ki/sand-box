@@ -19,7 +19,7 @@ puts decrypted_code
 # => AB cd
 ```
 
-## ヴィジュネル暗号(vigeneru.rb)
+## ヴィジュネル暗号(vigenere.rb)
 ex)
 ```ruby
 key = "ARM"
