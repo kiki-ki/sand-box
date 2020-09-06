@@ -19,22 +19,22 @@ class Enigma
       @encrypted_code = u_code.split('').map do |c|
         return c unless c.match?(/[A-Z]/)
 
-        key = ALP_ARR.find_index(c).to_s
-        roter1_res = roter1.rotated_scramble[key]
-        roter2_res = roter2.rotated_scramble[roter1_res]
-        roter3_res = roter3.rotated_scramble[roter2_res]
+        key = ALP_ARR.find_index(c)
+        key1 = roter1.rotated_scramble[key]
+        key2 = roter2.rotated_scramble[key1]
+        key3 = roter3.rotated_scramble[key2]
 
-        reflect_key = ((ALP_ARR.size - 1) - roter3_res.to_i).to_s
-        roter3_ref_res = roter3.rotated_scramble.invert[reflect_key]
-        roter2_ref_res = roter2.rotated_scramble.invert[roter3_ref_res]
-        roter1_ref_res = roter1.rotated_scramble.invert[roter2_ref_res]
+        ref_key = ((ALP_ARR.size - 1) - key3)
+        roter3_ref_key = roter3.rotated_scramble.find_index(ref_key)
+        roter2_ref_key = roter2.rotated_scramble.find_index(roter3_ref_key)
+        roter1_ref_key = roter1.rotated_scramble.find_index(roter2_ref_key)
 
-        roter1.rotation_cnt += 1
-        roter2.rotation_cnt += 1 if (roter1.rotation_cnt % 26).zero?
-        roter3.rotation_cnt += 1 if (roter2.rotation_cnt % 26).zero?
+        roter1.rotate
+        roter2.rotate if (roter1.rotation_cnt % 26).zero?
+        roter3.rotate if (roter2.rotation_cnt % 26).zero?
 
-        ALP_ARR[roter1_ref_res.to_i]
-      end
+        ALP_ARR[roter1_ref_key]
+      end.join
     end
   end
 
