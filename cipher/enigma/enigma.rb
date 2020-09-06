@@ -48,11 +48,11 @@ class Enigma
   end
 end
 
-encrypter = Enigma::Encrypter.new(plug_patterns: {"J" => "A"})
+encrypter = Enigma::Encrypter.new(plug_patterns: {J: "A"})
 p encrypter.plug_board
 p encrypter.roter1
 p encrypter.roter2
 p encrypter.roter3
-encrypter.encrypt(code: "ab-cd")
+encrypter.encrypt(code: "aaaa")
 puts encrypter.encrypted_code
 
