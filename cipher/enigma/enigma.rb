@@ -43,25 +43,4 @@ class Enigma
       end.join
     end
   end
-
-  class Decrypter
-    ALP_ARR = ("A".."Z").to_a.freeze
-
-    attr_reader :code, :encrypted_code,
-                :plug_board, :roter1, :roter2, :roter3
-
-    def initialize(plug_board:, scrambler1:, scrambler2:, scrambler3:)
-      @plug_board = plug_board
-      @scrambler1 = Roter.new
-    end
-  end
 end
-
-encrypter = Enigma::Encrypter.new(key_word: "XYZ")
-p encrypter.plug_board
-p encrypter.roter1
-p encrypter.roter2
-p encrypter.roter3
-encrypter.encrypt(code: "aaaa")
-puts encrypter.encrypted_code
-
