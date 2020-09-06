@@ -53,8 +53,8 @@ class Enigma
           roter1_ref_key = roter1.rotated_roter.find_index(roter2_ref_key)
 
           roter1.rotation
-          roter2.rotation if (roter1.rotation_cnt % 26).zero?
-          roter3.rotation if (roter2.rotation_cnt % 26).zero?
+          roter2.rotation if (roter1.rotation_cnt % 26).zero? && roter1.rotation_cnt != 0
+          roter3.rotation if (roter2.rotation_cnt % 26).zero? && roter2.rotation_cnt != 0
 
           plug_board.list[roter1_ref_key]
         else
