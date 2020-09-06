@@ -5,8 +5,9 @@ class Roter
   attr_accessor :rotation_cnt
 
   def initialize(scrambler:)
-    @scrambler = scrambler || make_random_scrambler
+    @scrambler = scrambler&.uniq || make_random_scrambler
     @rotation_cnt = 0
+    validate_scrambler!
   end
 
   def rotate
@@ -18,6 +19,12 @@ class Roter
   end
 
   private
+
+    def validate_scrambler!
+      raise "scrambler is invalid" if
+        scrambler.size != 26 ||
+        !scrambler.select { |v| !(0..(ALP_ARR.size - 1)).include?(v) }.empty?
+    end
 
     def make_random_scrambler
       (0..(ALP_ARR.size - 1)).to_a.shuffle
