@@ -12,5 +12,5 @@ end
 
 doc = Nokogiri::HTML.parse(html, nil, c)
 doc.xpath('//dd[@class="sng"]').each_with_index do |node, idx|
-  puts "#{idx}: #{node.inner_text}"
+  puts "#{idx + 1}: #{node.inner_text}"
 end
