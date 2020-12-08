@@ -5,6 +5,7 @@
 <div id="app">
   <p>{{ items[0].name }}: {{items[0].price}} * {{items[0].quantity}} = {{ items[0].price * items[0].quantity }}</p>
   <p>{{ 1000 | numberWithDelimiter }}</p>
+  <p>Total: {{ totalPrice }}円 (税込: {{ totalPriceWithTax }}円)</p>
 </div>
 
 <script src="app.js", charset="UTF-8"></script>
