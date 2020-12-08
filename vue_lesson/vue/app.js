@@ -2,7 +2,7 @@ var items = [
   {
     name: '鉛筆',
     price: 300,
-    quantity: 0
+    quantity: 1
   },
   {
     name: 'ノート',
@@ -20,7 +20,13 @@ var vm = new Vue({
   el: '#app',
   data: {
     items: items
+  },
+  filters: {
+    numberWithDelimiter: function (val) {
+      if (!val) {
+        return '0'
+      }
+      return val.toString().replace(/(\d)(?=(\d{3})+$)/g, '$1,')
+    }
   }
 })
-
-window.vm = vm
