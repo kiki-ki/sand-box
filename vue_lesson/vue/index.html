@@ -6,7 +6,7 @@
   <p>{{ items[0].name }}: {{items[0].price | numWithDelimiter}} * {{items[0].quantity}} = {{ items[0].price * items[0].quantity | numWithDelimiter }}</p>
   <p>Total: {{ totalPrice | numWithDelimiter }}円 (税込: {{ totalPriceWithTax | numWithDelimiter }}円)</p>
 
-  <p :class=errorMessageClass>
+  <p :style=errorMessageClass>
     {{ 1000 | numWithDelimiter }}円以上から購入可能
   </p>
 </div>
