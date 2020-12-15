@@ -2,7 +2,7 @@ var items = [
   {
     name: '鉛筆',
     price: 300,
-    quantity: 4
+    quantity: 3
   },
   {
     name: 'ノート',
@@ -37,6 +37,12 @@ var vm = new Vue({
     },
     totalPriceWithTax: function () {
       return Math.floor(this.totalPrice * 1.08)
+    },
+    canBuy: function () {
+      return this.totalPriceWithTax >= 1000
+    },
+    errorMessageClass: function () {
+      return !this.canBuy
     }
   }
 })
