@@ -2,7 +2,7 @@ var items = [
   {
     name: '鉛筆',
     price: 300,
-    quantity: 4
+    quantity: 3
   },
   {
     name: 'ノート',
@@ -43,8 +43,8 @@ var vm = new Vue({
     },
     errorMessageClass: function () {
       return {
-        border: this.canBuy ? '' : '1px solid red',
-        color: this.canBuy ? '' : 'red'
+        color: this.canBuy ? '' : 'red',
+        display: this.canBuy ? 'none' : ''
       }
     }
   }
