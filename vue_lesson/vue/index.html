@@ -15,7 +15,7 @@
     </li>
     <p>合計: {{ totalPrice | numWithDelimiter }}円 (税込: {{ totalPriceWithTax | numWithDelimiter }}円)</p>
 
-    <p v-if="!canBuy" class='errorMessage'>
+    <p v-if="!canBuy" class='error-message'>
       ⚠︎{{ 1000 | numWithDelimiter }}円以上から購入可能
     </p>
     <p v-else><button>購入</button></p>
