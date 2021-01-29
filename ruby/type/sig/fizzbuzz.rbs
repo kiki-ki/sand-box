@@ -1,0 +1,4 @@
+# Classes
+class Fizzbuzz
+  def self.do: (Integer n) -> String
+end

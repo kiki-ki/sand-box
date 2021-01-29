@@ -1,5 +1,5 @@
-(1..20).each do |n|
-  str =
+class Fizzbuzz
+  def self.do(n)
     if n % 3 == 0 && n % 5 == 0
       'fizzbuzz'
     elsif n % 3 == 0
@@ -7,8 +7,12 @@
     elsif n % 5 == 0
       'buzz'
     else
-      nil
+      ''
     end
-  puts "#{n}: #{str}" unless str == nil
-  break if str == 'fizzbuzz'
+  end
+end
+
+(1..20).each do |n|
+  str = Fizzbuzz.do(n)
+  puts "#{n}: #{str}"
 end
